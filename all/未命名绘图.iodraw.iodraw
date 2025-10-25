@@ -67,17 +67,17 @@
         <mxCell id="TasRK4_nh5ibBmI8QAzD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TasRK4_nh5ibBmI8QAzD-0" target="TasRK4_nh5ibBmI8QAzD-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TasRK4_nh5ibBmI8QAzD-7" value="Prior, HF model, LF model, target threshold, the number of particles,&amp;nbsp; the HF and LF simulation number of each parameter&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TasRK4_nh5ibBmI8QAzD-7" value="Prior, HF model, LF model, target threshold, the number of particles N,&amp;nbsp; the HF and LF simulation number of each parameter n&lt;sub&gt;H&lt;/sub&gt; n&lt;sub&gt;L&lt;/sub&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="400" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TasRK4_nh5ibBmI8QAzD-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TasRK4_nh5ibBmI8QAzD-7">
+        <mxCell id="TasRK4_nh5ibBmI8QAzD-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TasRK4_nh5ibBmI8QAzD-7" target="TasRK4_nh5ibBmI8QAzD-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="450" as="sourcePoint" />
             <mxPoint x="475" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TasRK4_nh5ibBmI8QAzD-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="490" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
