@@ -68,7 +68,7 @@
         <mxCell id="TasRK4_nh5ibBmI8QAzD-9" value="sample N parameters from prior and set weight W=1/N." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="490" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TasRK4_nh5ibBmI8QAzD-10" value="generate nL LF simulation data for each parameters&amp;nbsp;&lt;div&gt;determine a auxiy thereshold to ensure $\alpha$比例的活跃粒子保留下来，不活跃的粒子权重设为0.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TasRK4_nh5ibBmI8QAzD-10" value="generate nL LF simulation data for each parameters&amp;nbsp;&lt;div&gt;determine a auxiy thereshold to ensure $1-\alpha$比例的粒子偏差都大于这个阈值，不活跃的粒子权重设为0.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="570" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TasRK4_nh5ibBmI8QAzD-12" value="对保留下来的进行高保真模拟，缩减阈值使得$\alpha$比例的活跃粒子保留下来，并更新权重。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
