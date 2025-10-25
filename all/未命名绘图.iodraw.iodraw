@@ -74,7 +74,7 @@
         <mxCell id="TasRK4_nh5ibBmI8QAzD-11" value="determine a auxiy thereshold to ensure $\alpha$比例的活跃粒子保留下来" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="640" width="286" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TasRK4_nh5ibBmI8QAzD-12" value="对保留下来的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TasRK4_nh5ibBmI8QAzD-12" value="对保留下来的进行高保真模拟，缩减阈值是的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="710" width="286" height="60" as="geometry" />
         </mxCell>
       </root>
