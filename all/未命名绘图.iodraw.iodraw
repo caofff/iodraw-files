@@ -64,7 +64,7 @@
         <mxCell id="TasRK4_nh5ibBmI8QAzD-23" value="生成候选参数，生成LF模拟数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="370" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TasRK4_nh5ibBmI8QAzD-24" value="若模拟" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TasRK4_nh5ibBmI8QAzD-24" value="若LF模拟数据大于辅助预知" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="430" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
