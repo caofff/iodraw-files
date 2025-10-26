@@ -61,20 +61,17 @@
             <mxPoint x="405" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TasRK4_nh5ibBmI8QAzD-23" value="生成候选参数，生成LF模拟数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="345" y="370" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="TasRK4_nh5ibBmI8QAzD-24" value="若LF模拟数据大于辅助阈值" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="690" y="170" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TasRK4_nh5ibBmI8QAzD-25" value="生成高保真模拟" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="550" y="447.5" width="120" height="35" as="geometry" />
+          <mxGeometry x="800" y="360" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TasRK4_nh5ibBmI8QAzD-26" value="以MH接收概率接收候选参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="520" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TasRK4_nh5ibBmI8QAzD-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="357" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
