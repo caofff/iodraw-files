@@ -95,7 +95,7 @@
         <mxCell id="b9tgQnuTwCAE3s_hOSYx-8" value="LF模拟偏差都大于阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="690" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="b9tgQnuTwCAE3s_hOSYx-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b9tgQnuTwCAE3s_hOSYx-11">
+        <mxCell id="b9tgQnuTwCAE3s_hOSYx-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b9tgQnuTwCAE3s_hOSYx-11" target="b9tgQnuTwCAE3s_hOSYx-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="398" y="880" as="sourcePoint" />
             <mxPoint x="320" y="740" as="targetPoint" />
@@ -106,6 +106,12 @@
         </mxCell>
         <mxCell id="b9tgQnuTwCAE3s_hOSYx-11" value="生成候选参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="640" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b9tgQnuTwCAE3s_hOSYx-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b9tgQnuTwCAE3s_hOSYx-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="660" as="sourcePoint" />
+            <mxPoint x="460" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
