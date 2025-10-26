@@ -19,8 +19,8 @@
         <mxCell id="TasRK4_nh5ibBmI8QAzD-10" value="generate nL LF simulation data for each parameters&amp;nbsp;&lt;div&gt;determine a auxiy thereshold to ensure $1-\alpha$比例的粒子偏差都大于这个阈值，不活跃的粒子权重设为0.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="262" y="210" width="286" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TasRK4_nh5ibBmI8QAzD-12" value="对保留下来的进行高保真模拟，缩减阈值使得$\alpha$比例的活跃粒子保留下来，并更新权重。" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="274" y="610" width="286" height="60" as="geometry" />
+        <mxCell id="TasRK4_nh5ibBmI8QAzD-12" value="进行高保真模拟，缩减阈值使得$\alpha$比例的活跃粒子保留下来，并更新权重。" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="264" y="450" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TasRK4_nh5ibBmI8QAzD-15" value="如果有效样本量过小" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="297" y="290" width="216" height="50" as="geometry" />
