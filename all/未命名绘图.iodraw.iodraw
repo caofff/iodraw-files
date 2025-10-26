@@ -20,7 +20,7 @@
           <mxGeometry x="262" y="210" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TasRK4_nh5ibBmI8QAzD-12" value="对保留下来的进行高保真模拟，缩减阈值使得$\alpha$比例的活跃粒子保留下来，并更新权重。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="262" y="585" width="286" height="60" as="geometry" />
+          <mxGeometry x="274" y="610" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TasRK4_nh5ibBmI8QAzD-15" value="如果有效样本量过小" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="297" y="290" width="216" height="50" as="geometry" />
@@ -73,8 +73,8 @@
         <mxCell id="TasRK4_nh5ibBmI8QAzD-26" value="以MH接收概率接收候选参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="520" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TasRK4_nh5ibBmI8QAzD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TasRK4_nh5ibBmI8QAzD-12" target="TasRK4_nh5ibBmI8QAzD-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TasRK4_nh5ibBmI8QAzD-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
