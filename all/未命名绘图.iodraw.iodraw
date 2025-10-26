@@ -92,8 +92,8 @@
         <mxCell id="b9tgQnuTwCAE3s_hOSYx-7" value="生成LF模拟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="510" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b9tgQnuTwCAE3s_hOSYx-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="550" width="80" height="40" as="geometry" />
+        <mxCell id="b9tgQnuTwCAE3s_hOSYx-8" value="LF模拟偏差都大于阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="550" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
