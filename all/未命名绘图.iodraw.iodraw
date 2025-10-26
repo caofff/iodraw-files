@@ -61,7 +61,7 @@
             <mxPoint x="405" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TasRK4_nh5ibBmI8QAzD-28" value="MCMC移动" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TasRK4_nh5ibBmI8QAzD-28" value="MCMC移动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="358.75" y="335" width="92.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="b9tgQnuTwCAE3s_hOSYx-0" value="阈值大于目标阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
