@@ -1,90 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2024-06-01T12:00:00.000Z" agent="5.0 (Windows)" version="20.0.0" type="device">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="24.7.17">
   <diagram id="diagram1" name="PF-ABC-SMC">
-    <mxGraphModel dx="1000" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0">
+    <mxGraphModel dx="5288" dy="4156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="0"/>
-        <mxCell id="1" parent="0"/>
-        
-        <!-- Start -->
-        <mxCell id="2" value="Start: Initialize" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
-          <mxGeometry x="260" y="40" width="160" height="40" as="geometry"/>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Start: Initialize" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" parent="1" vertex="1">
+          <mxGeometry x="260" y="40" width="160" height="40" as="geometry" />
         </mxCell>
-        
-        <!-- Set parameters -->
-        <mxCell id="3" value="Set ε₀=∞, t=0, \tilde{ε}_T=0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" vertex="1" parent="1">
-          <mxGeometry x="230" y="100" width="220" height="60" as="geometry"/>
+        <mxCell id="3" value="Set ε₀=∞, t=0, \tilde{ε}_T=0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" parent="1" vertex="1">
+          <mxGeometry x="230" y="100" width="220" height="60" as="geometry" />
         </mxCell>
-        
-        <!-- Sample particles -->
-        <mxCell id="4" value="Sample particles θ₁^{(i)} ~ π(·)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
-          <mxGeometry x="260" y="180" width="160" height="40" as="geometry"/>
+        <mxCell id="4" value="Sample particles θ₁^{(i)} ~ π(·)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" parent="1" vertex="1">
+          <mxGeometry x="260" y="180" width="160" height="40" as="geometry" />
         </mxCell>
-
-        <!-- Simulations -->
-        <mxCell id="5" value="Simulate low-fidelity \tilde{x}_{0,1:n_L}^{(i)} ~ \tilde{P}_{θ₀^{(i)}}, high-fidelity x_{0,1:n_H}^{(i)} ~ P_{θ₀^{(i)}}, set weights W₀^{(i)}=1/N" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" vertex="1" parent="1">
-          <mxGeometry x="140" y="240" width="440" height="80" as="geometry"/>
+        <mxCell id="5" value="Simulate low-fidelity \tilde{x}_{0,1:n_L}^{(i)} ~ \tilde{P}_{θ₀^{(i)}}, high-fidelity x_{0,1:n_H}^{(i)} ~ P_{θ₀^{(i)}}, set weights W₀^{(i)}=1/N" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" parent="1" vertex="1">
+          <mxGeometry x="140" y="240" width="440" height="80" as="geometry" />
         </mxCell>
-
-        <!-- Decision -->
-        <mxCell id="6" value="Is ε_t &gt; ε_T ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="120" height="60" as="geometry"/>
+        <mxCell id="6" value="Is ε_t &gt; ε_T ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;" parent="1" vertex="1">
+          <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        
-        <!-- Yes branch -->
-        <mxCell id="7" value="Update low-fidelity threshold \tilde{ε}_T" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" vertex="1" parent="1">
-          <mxGeometry x="240" y="420" width="240" height="40" as="geometry"/>
+        <mxCell id="7" value="Update low-fidelity threshold \tilde{ε}_T" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" parent="1" vertex="1">
+          <mxGeometry x="240" y="420" width="240" height="40" as="geometry" />
         </mxCell>
-
-        <mxCell id="8" value="Determine \tilde{ε}_t s.t. PA(\tilde{W}_t, \tilde{ε}_t) = α PA(W_{t-1}), with \tilde{ε}_t ≥ \tilde{ε}_T" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
-          <mxGeometry x="220" y="480" width="320" height="60" as="geometry"/>
+        <mxCell id="8" value="Determine \tilde{ε}_t s.t. PA(\tilde{W}_t, \tilde{ε}_t) = α PA(W_{t-1}), with \tilde{ε}_t ≥ \tilde{ε}_T" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" parent="1" vertex="1">
+          <mxGeometry x="220" y="480" width="320" height="60" as="geometry" />
         </mxCell>
-
-        <mxCell id="9" value="Update weights \tilde{W}_t^{(i)} ∝ W_{t-1}^{(i)} × 𝟙{min_k Δ(x_{t-1,k}^{(i)}, y) &lt; \tilde{ε}_t}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" vertex="1" parent="1">
-          <mxGeometry x="220" y="560" width="320" height="60" as="geometry"/>
+        <mxCell id="9" value="Update weights \tilde{W}_t^{(i)} ∝ W_{t-1}^{(i)} × 𝟙{min_k Δ(x_{t-1,k}^{(i)}, y) &lt; \tilde{ε}_t}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" parent="1" vertex="1">
+          <mxGeometry x="220" y="560" width="320" height="60" as="geometry" />
         </mxCell>
-
-        <mxCell id="10" value="Is ESS(\tilde{W}_t) &lt; N_T ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;" vertex="1" parent="1">
-          <mxGeometry x="280" y="640" width="120" height="60" as="geometry"/>
+        <mxCell id="10" value="Is ESS(\tilde{W}_t) &lt; N_T ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;" parent="1" vertex="1">
+          <mxGeometry x="280" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-
-        <mxCell id="11" value="Resample particles by weights \tilde{W}_t, reset weights = 1/N" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" vertex="1" parent="1">
-          <mxGeometry x="100" y="720" width="280" height="40" as="geometry"/>
+        <mxCell id="11" value="Resample particles by weights \tilde{W}_t, reset weights = 1/N" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" parent="1" vertex="1">
+          <mxGeometry x="100" y="720" width="280" height="40" as="geometry" />
         </mxCell>
-
-        <mxCell id="12" value="Continue without resampling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
-          <mxGeometry x="360" y="720" width="240" height="40" as="geometry"/>
+        <mxCell id="12" value="Continue without resampling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" parent="1" vertex="1">
+          <mxGeometry x="360" y="720" width="240" height="40" as="geometry" />
         </mxCell>
-
-        <mxCell id="14" value="For each particle i: Run PF-ABC-MCMC(...)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" vertex="1" parent="1">
-          <mxGeometry x="160" y="780" width="440" height="60" as="geometry"/>
+        <mxCell id="14" value="For each particle i: Run PF-ABC-MCMC(...)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" parent="1" vertex="1">
+          <mxGeometry x="160" y="780" width="440" height="60" as="geometry" />
         </mxCell>
-
-        <mxCell id="16" value="Calculate new high-fidelity threshold ε_t s.t. PA(W_t, ε_t) = α PA(\tilde{W}_t), with ε_t ≥ ε_T" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
-          <mxGeometry x="160" y="860" width="440" height="60" as="geometry"/>
+        <mxCell id="16" value="Calculate new high-fidelity threshold ε_t s.t. PA(W_t, ε_t) = α PA(\tilde{W}_t), with ε_t ≥ ε_T" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" parent="1" vertex="1">
+          <mxGeometry x="160" y="860" width="440" height="60" as="geometry" />
         </mxCell>
-
-        <mxCell id="18" value="Output particle set {(θ_t^{(i)}, W_t^{(i)})}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
-          <mxGeometry x="560" y="360" width="240" height="60" as="geometry"/>
+        <mxCell id="18" value="Output particle set {(θ_t^{(i)}, W_t^{(i)})}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" parent="1" vertex="1">
+          <mxGeometry x="560" y="360" width="240" height="60" as="geometry" />
         </mxCell>
-        
-        <!-- Edges -->
-        <mxCell id="20" edge="1" parent="1" source="2" target="3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        <mxCell id="21" edge="1" parent="1" source="3" target="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        <mxCell id="22" edge="1" parent="1" source="4" target="5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        <mxCell id="23" edge="1" parent="1" source="5" target="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        <mxCell id="24" edge="1" parent="1" source="6" target="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        <mxCell id="25" edge="1" parent="1" source="7" target="8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        <mxCell id="26" edge="1" parent="1" source="8" target="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        <mxCell id="27" edge="1" parent="1" source="9" target="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        <mxCell id="28" edge="1" parent="1" source="10" target="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" />
-        <mxCell id="29" edge="1" parent="1" source="10" target="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" />
-        <mxCell id="30" edge="1" parent="1" source="11" target="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        <mxCell id="31" edge="1" parent="1" source="12" target="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        <mxCell id="32" edge="1" parent="1" source="14" target="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        <mxCell id="33" edge="1" parent="1" source="16" target="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        <mxCell id="34" edge="1" parent="1" source="6" target="18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;"/>
-        
+        <mxCell id="20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="2" target="3" edge="1" />
+        <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="3" target="4" edge="1" />
+        <mxCell id="22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="4" target="5" edge="1" />
+        <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="5" target="6" edge="1" />
+        <mxCell id="24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="6" target="7" edge="1" />
+        <mxCell id="25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="7" target="8" edge="1" />
+        <mxCell id="26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="8" target="9" edge="1" />
+        <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="9" target="10" edge="1" />
+        <mxCell id="28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="10" target="11" edge="1" />
+        <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="10" target="12" edge="1" />
+        <mxCell id="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="11" target="14" edge="1" />
+        <mxCell id="31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="12" target="14" edge="1" />
+        <mxCell id="32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="14" target="16" edge="1" />
+        <mxCell id="33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="16" target="6" edge="1" />
+        <mxCell id="34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="6" target="18" edge="1" />
       </root>
     </mxGraphModel>
   </diagram>
