@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="TasRK4_nh5ibBmI8QAzD-7" value="$$\pi(\theta)$$ Prior, HF model, LF model, target threshold, the number of particles N,&amp;nbsp; te HF and LF simulation number of each parameter n&lt;sub&gt;H&lt;/sub&gt; n&lt;sub&gt;L&lt;/sub&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TasRK4_nh5ibBmI8QAzD-7" value="$\pi(\theta)$ Prior, HF model, LF model, target threshold, the number of particles N,&amp;nbsp; te HF and LF simulation number of each parameter n&lt;sub&gt;H&lt;/sub&gt; n&lt;sub&gt;L&lt;/sub&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="20" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TasRK4_nh5ibBmI8QAzD-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TasRK4_nh5ibBmI8QAzD-7" target="TasRK4_nh5ibBmI8QAzD-9" edge="1">
