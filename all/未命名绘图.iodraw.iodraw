@@ -67,11 +67,6 @@
         <mxCell id="TasRK4_nh5ibBmI8QAzD-25" value="生成高保真模拟" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="360" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="b9tgQnuTwCAE3s_hOSYx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TasRK4_nh5ibBmI8QAzD-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TasRK4_nh5ibBmI8QAzD-28" value="MCMC移动" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="370" width="195" height="60" as="geometry" />
         </mxCell>
