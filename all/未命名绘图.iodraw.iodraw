@@ -67,8 +67,8 @@
         <mxCell id="TasRK4_nh5ibBmI8QAzD-24" value="若LF模拟数据大于辅助阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="440" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TasRK4_nh5ibBmI8QAzD-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="435" width="120" height="60" as="geometry" />
+        <mxCell id="TasRK4_nh5ibBmI8QAzD-25" value="生成高保真模拟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="460" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
