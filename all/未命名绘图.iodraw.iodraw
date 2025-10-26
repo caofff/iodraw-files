@@ -67,11 +67,11 @@
         <mxCell id="TasRK4_nh5ibBmI8QAzD-25" value="生成高保真模拟" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="360" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="TasRK4_nh5ibBmI8QAzD-26" value="以MH接收概率接收候选参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="550" y="520" width="180" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="TasRK4_nh5ibBmI8QAzD-28" value="MCMC移动" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="370" width="220" height="60" as="geometry" />
+          <mxGeometry x="295" y="370" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b9tgQnuTwCAE3s_hOSYx-0" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="530" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
