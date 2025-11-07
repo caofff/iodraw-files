@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nwqgDmkljt_x6fao-piy-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;逐步回归操作方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="90" width="210" height="50" as="geometry" />
+          <mxGeometry x="250" y="110" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nwqgDmkljt_x6fao-piy-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;向前&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="190" width="110" height="60" as="geometry" />
