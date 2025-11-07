@@ -124,6 +124,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="150" as="sourcePoint" />
             <mxPoint x="320" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="155" />
+              <mxPoint x="290" y="215" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8G3qoT_V7-MJkESH0dx_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" source="rGM1rw6B2inSSwmc1Hx2-1" target="rGM1rw6B2inSSwmc1Hx2-2">
@@ -137,8 +141,8 @@
             <mxPoint x="320" y="60" as="sourcePoint" />
             <mxPoint x="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="155" />
-              <mxPoint x="300" y="95" />
+              <mxPoint x="290" y="155" />
+              <mxPoint x="290" y="95" />
             </Array>
           </mxGeometry>
         </mxCell>
