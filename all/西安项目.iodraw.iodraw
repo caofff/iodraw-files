@@ -1008,7 +1008,7 @@
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-87" value="筛选试验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=12;fontColor=#CC0000;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-88" value="筛选试验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=12;fontColor=#CC0000;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-88" value="评估试验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=12;fontColor=#CC0000;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="289" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
