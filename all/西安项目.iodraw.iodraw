@@ -916,11 +916,10 @@
         </mxCell>
         <mxCell id="al9V5SPMO6Yosl1JYPkV-21" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="al9V5SPMO6Yosl1JYPkV-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-250" y="100" as="sourcePoint" />
+            <mxPoint x="-260" y="100" as="sourcePoint" />
             <mxPoint x="-460" y="50" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-250" y="130" />
-              <mxPoint x="-250" y="160" />
+              <mxPoint x="-260" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
