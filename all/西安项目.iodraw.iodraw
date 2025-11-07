@@ -1041,10 +1041,10 @@
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-9" value="&lt;font&gt;试验次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="378" y="90" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-10" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="318" y="52.5" width="60" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-11" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="310" y="215" width="50" height="155" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-12" value="" style="group;fontFamily=宋体;" vertex="1" connectable="0" parent="1">
