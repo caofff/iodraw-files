@@ -465,10 +465,10 @@
           <mxGeometry x="560" y="-1080" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VagmpGRheEf3wSzQaBgS-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;选择参考类别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=14;fontFamily=宋体;fillColor=none;strokeColor=#4A7CA6;" parent="1" vertex="1">
-          <mxGeometry x="490" y="-770" width="90" height="30" as="geometry" />
+          <mxGeometry x="270" y="-960" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VagmpGRheEf3wSzQaBgS-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;建立J-1个logit模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=14;fontFamily=宋体;fillColor=none;strokeColor=#4A7CA6;" parent="1" vertex="1">
-          <mxGeometry x="480" y="-710" width="120" height="30" as="geometry" />
+          <mxGeometry x="423" y="-960" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VagmpGRheEf3wSzQaBgS-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;推导各类别概率公式&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=14;fontFamily=宋体;fillColor=none;strokeColor=#4A7CA6;" parent="1" vertex="1">
           <mxGeometry x="482.5" y="-650" width="115" height="30" as="geometry" />
