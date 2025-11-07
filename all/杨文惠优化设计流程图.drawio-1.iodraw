@@ -497,7 +497,7 @@
           <mxGeometry x="80" y="120" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hjYq9sXjCgh9iIJsAiqn-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;输入响应和因子&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="262.02" y="120" width="67.98" height="50" as="geometry" />
+          <mxGeometry x="262.02" y="120" width="77.98" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hjYq9sXjCgh9iIJsAiqn-8" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;修改、添加、删除试验点&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="220.00404040404035" y="229.99972972972975" width="116.76767676767676" height="50" as="geometry" />
