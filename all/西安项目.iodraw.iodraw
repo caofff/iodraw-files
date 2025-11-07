@@ -965,10 +965,10 @@
           <mxGeometry x="-760" y="370" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="al9V5SPMO6Yosl1JYPkV-39" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;&quot;&gt;添加、修改、删除试验点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-393" y="370" width="130" height="50" as="geometry" />
+          <mxGeometry x="-400" y="370" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="al9V5SPMO6Yosl1JYPkV-40" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;&quot;&gt;评估设计矩阵&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="-577" y="370" width="130" height="50" as="geometry" />
+          <mxGeometry x="-570" y="370" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t0RbEnL_voBuvJEbYlYk-1" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;&quot;&gt;基于超饱和设计评估准则生成设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="-210" y="370" width="130" height="50" as="geometry" />
@@ -977,7 +977,7 @@
           <mxGeometry x="-760" y="460" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t0RbEnL_voBuvJEbYlYk-3" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;&quot;&gt;显示数据分析结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-393" y="460" width="130" height="50" as="geometry" />
+          <mxGeometry x="-400" y="460" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t0RbEnL_voBuvJEbYlYk-4" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;&quot;&gt;分析试验数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="-570" y="460" width="130" height="50" as="geometry" />
