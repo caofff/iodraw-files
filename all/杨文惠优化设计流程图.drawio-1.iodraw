@@ -23,6 +23,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="140" as="sourcePoint" />
             <mxPoint x="240" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="141" />
+              <mxPoint x="221" y="141" />
+              <mxPoint x="221" y="65" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AKYlw6tXg648ZcpVpIKf-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" target="qxg-dBIwnVI1UTEXBK4o-3">
