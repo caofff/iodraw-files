@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="24.7.17" pages="6">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="24.7.17" pages="5">
   <diagram name="第 1 页" id="CS-QjhSsv-Z98DWegOkf">
     <mxGraphModel dx="940" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,68 +145,6 @@
         </mxCell>
         <mxCell id="25Rpir6_7o4kxlmko5IZ-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;预测能力评价&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="1020" width="195" height="75" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="xAG2AYoXBJdjCRzgR0nS" name="第 11 页">
-    <mxGraphModel dx="940" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="VagmpGRheEf3wSzQaBgS-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;响应变量Y有K个有序类别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-740" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-2" value="&lt;font face=&quot;宋体&quot;&gt;定义累积概率&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;P（Y&amp;lt;=j）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-680" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VagmpGRheEf3wSzQaBgS-3" target="VagmpGRheEf3wSzQaBgS-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-3" value="&lt;font face=&quot;宋体&quot;&gt;累积logit变换&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-620" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-4" value="&lt;font face=&quot;宋体&quot;&gt;构建有序多分类logit模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="-560" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="255" y="-710" as="sourcePoint" />
-            <mxPoint x="255" y="-680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="254.6" y="-650" as="sourcePoint" />
-            <mxPoint x="255" y="-620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-21" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;响应变量Y有J个有序类别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="465" y="-740" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-22" value="&lt;font face=&quot;宋体&quot;&gt;选择参考类别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="-680" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VagmpGRheEf3wSzQaBgS-23" target="VagmpGRheEf3wSzQaBgS-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-23" value="&lt;font face=&quot;宋体&quot;&gt;建立J-1个logit模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="-620" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-24" value="&lt;font face=&quot;宋体&quot;&gt;推导各类别概率公式&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="452.5" y="-560" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="VagmpGRheEf3wSzQaBgS-23" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="-650" as="sourcePoint" />
-            <mxPoint x="504.6" y="-620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VagmpGRheEf3wSzQaBgS-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VagmpGRheEf3wSzQaBgS-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="-700" as="sourcePoint" />
-            <mxPoint x="510" y="-680" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
