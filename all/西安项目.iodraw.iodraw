@@ -856,7 +856,10 @@
           <mxGeometry x="80" y="850" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-32" value="修改、添加、删除试验点" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="740" width="190" height="30" as="geometry" />
+          <mxGeometry x="570" y="850" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-33" value="修改、添加、删除试验点" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="850" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
