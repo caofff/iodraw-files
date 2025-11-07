@@ -500,7 +500,7 @@
           <mxGeometry x="262.0232323232323" y="120.00378378378379" width="82.42424242424241" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hjYq9sXjCgh9iIJsAiqn-4" value="&lt;font face=&quot;宋体&quot; style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;归一化和离散化&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#4A7CA6;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="636.3636363636364" y="209.99594594594595" width="123.63636363636363" height="50" as="geometry" />
+          <mxGeometry x="540.0036363636364" y="439.99594594594595" width="123.63636363636363" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hjYq9sXjCgh9iIJsAiqn-5" value="&lt;p style=&quot;font-size: 14px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;自定义&lt;/font&gt;最大试验次数、自定义试验点、自定义试验区域、不可试验区域、不可试验点&lt;font style=&quot;font-size: 14px;&quot;&gt;、因子水平等参数设置&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="380" y="120" width="380" height="50" as="geometry" />
