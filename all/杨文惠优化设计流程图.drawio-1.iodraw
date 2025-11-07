@@ -185,7 +185,7 @@
           <mxGeometry x="300" y="280" width="200" height="290" as="geometry" />
         </mxCell>
         <mxCell id="m4KQ6Mw4ufK6Pm_TYKdi-2" value="&lt;span style=&quot;font-size: 14px; background-color: transparent;&quot;&gt;双向法：&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent;&quot;&gt;1.每引入一个参数进行检验，若显著则保留，否则舍弃。&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent;&quot;&gt;2.检查模型中已有的其它参数是否还是显著的，若由于步骤1中加入的新参数而使得某个旧参数不再显著，则剔除此旧参数。以确保每次引入新的参数以后，模型中只含有显著性的参数。&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3.重复步骤1,2，直到没有新的参数可以加入，没有旧的参数可以剔除为止。&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;fontFamily=宋体;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="560" y="280" width="200" height="280" as="geometry" />
+          <mxGeometry x="530" y="250" width="200" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
