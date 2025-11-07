@@ -2070,10 +2070,73 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R77M_zMzukfZYrk7bcuX" name="第 7 页">
-    <mxGraphModel dx="940" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1767" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hammUa5xUuL8F0aACNAO-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" source="hammUa5xUuL8F0aACNAO-2" target="hammUa5xUuL8F0aACNAO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-2" value="启动最大最小距离设计与分析按钮" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;container=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="720" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-3" value="输入响应和因子" style="whiteSpace=wrap;html=1;strokeColor=#4A7CA6;rounded=0;fontFamily=宋体;fontSize=14;fontColor=default;container=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="720" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" source="hammUa5xUuL8F0aACNAO-5" target="hammUa5xUuL8F0aACNAO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;归一化和离散化&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#4A7CA6;fillColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;container=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="720" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" source="hammUa5xUuL8F0aACNAO-3" target="hammUa5xUuL8F0aACNAO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" source="hammUa5xUuL8F0aACNAO-8" target="hammUa5xUuL8F0aACNAO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-8" value="输入用户自定义参数" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=14;fontColor=default;container=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="720" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" source="hammUa5xUuL8F0aACNAO-10" target="hammUa5xUuL8F0aACNAO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;利用最大最小距离&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;设计算法&lt;/span&gt;生成试验设计表" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#4A7CA6;fillColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;container=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="800" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-11" value="修改、添加、删除&lt;div style=&quot;font-size: 14px;&quot;&gt;试验点&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=14;fontColor=default;container=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="810" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" source="hammUa5xUuL8F0aACNAO-13" target="hammUa5xUuL8F0aACNAO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;评估试验设计&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#4A7CA6;fillColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;container=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="810" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" source="hammUa5xUuL8F0aACNAO-15" target="hammUa5xUuL8F0aACNAO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-15" value="显示试验设计的评估结果" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=14;fontColor=default;container=0;rounded=0;align=center;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="810" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-16" value="录入试验数据" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=14;fontColor=default;container=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="900" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" source="hammUa5xUuL8F0aACNAO-18" target="hammUa5xUuL8F0aACNAO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;分析试验数据&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#4A7CA6;fillColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;container=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="900" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-19" value="显示数据分析结果" style="whiteSpace=wrap;html=1;strokeColor=#4A7CA6;rounded=0;fontFamily=宋体;fontSize=14;fontColor=default;container=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="900" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" source="hammUa5xUuL8F0aACNAO-11" target="hammUa5xUuL8F0aACNAO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hammUa5xUuL8F0aACNAO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" source="hammUa5xUuL8F0aACNAO-16" target="hammUa5xUuL8F0aACNAO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
