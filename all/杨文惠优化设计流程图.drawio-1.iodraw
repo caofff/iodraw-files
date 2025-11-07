@@ -99,10 +99,10 @@
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;归一化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="310" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rGM1rw6B2inSSwmc1Hx2-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Min-max归一化，&lt;/font&gt;Log函数转换归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="rGM1rw6B2inSSwmc1Hx2-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Min-max归一化、&lt;/font&gt;Log函数转换归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="470" y="130" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rGM1rw6B2inSSwmc1Hx2-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;等宽离散化、等频离散化、&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;聚类离散化&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="rGM1rw6B2inSSwmc1Hx2-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;等宽离散化、等频离散化、&lt;/span&gt;&lt;/font&gt;聚类离散化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="470" y="370" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Z-score标准化&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
