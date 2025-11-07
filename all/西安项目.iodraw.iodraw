@@ -451,7 +451,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="al9V5SPMO6Yosl1JYPkV-33" value="n=2&lt;sup&gt;m&lt;/sup&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="al9V5SPMO6Yosl1JYPkV-21">
+        <mxCell id="al9V5SPMO6Yosl1JYPkV-33" value="n=2&lt;font size=&quot;1&quot;&gt;k&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="al9V5SPMO6Yosl1JYPkV-21">
           <mxGeometry x="0.4182" y="2" relative="1" as="geometry">
             <mxPoint x="2" as="offset" />
           </mxGeometry>
