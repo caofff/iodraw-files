@@ -55,10 +55,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FE5fTcyKA9890aun7k16-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;定性变量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontFamily=宋体;fontColor=#000000;strokeColor=#4A7CA6;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="FE5fTcyKA9890aun7k16-1" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;宋体&quot;&gt;定性变量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;fontFamily=宋体;fontColor=#000000;strokeColor=#4A7CA6;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FE5fTcyKA9890aun7k16-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;虚拟变量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontFamily=宋体;fontColor=#000000;strokeColor=#4A7CA6;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="FE5fTcyKA9890aun7k16-2" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;宋体&quot;&gt;虚拟变量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;fontFamily=宋体;fontColor=#000000;strokeColor=#4A7CA6;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="370" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FE5fTcyKA9890aun7k16-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="FE5fTcyKA9890aun7k16-2" edge="1">
