@@ -798,7 +798,7 @@
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-6" value="自定义不可试验点和试验区域" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-7" value="&lt;div&gt;根据优化准则、自动远&lt;/div&gt;&lt;div&gt;择最优的优化设计算&lt;/div&gt;&lt;div&gt;法，生成试验表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;arcSize=42;" vertex="1" parent="1">
+        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-7" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;根据优化准则、自动远&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;择最优的优化设计算&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;法，生成试验表&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;arcSize=42;" vertex="1" parent="1">
           <mxGeometry x="290" y="660" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
