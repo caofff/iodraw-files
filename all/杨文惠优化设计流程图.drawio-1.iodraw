@@ -370,10 +370,9 @@
         <mxCell id="dMyz6a8xPI5xTt4r-fRZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dMyz6a8xPI5xTt4r-fRZ-4" target="dMyz6a8xPI5xTt4r-fRZ-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="182" y="420" />
               <mxPoint x="210" y="420" />
-              <mxPoint x="210" y="480" />
-              <mxPoint x="240" y="480" />
+              <mxPoint x="210" y="470" />
+              <mxPoint x="240" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -381,8 +380,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="158.23008849557522" y="474.8484848484849" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="182" y="410" />
-              <mxPoint x="210" y="410" />
+              <mxPoint x="210" y="420" />
               <mxPoint x="210" y="350" />
             </Array>
           </mxGeometry>
