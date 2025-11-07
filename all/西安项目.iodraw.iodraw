@@ -1062,7 +1062,7 @@
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="198" y="252.5" width="12" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#4E7187);shadow=0;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#4E7187);shadow=0;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300.81081081081084" y="447.27272727272725" width="389.1891891891892" height="82.72727272727273" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-14" value="&lt;font&gt;功效&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
