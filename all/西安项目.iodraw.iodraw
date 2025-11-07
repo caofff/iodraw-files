@@ -488,7 +488,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;用户配置阶段&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=none;gradientColor=none;gradientDirection=north;fontFamily=宋体;fillColor=#4A7CA6;fontSize=12;fontColor=#FFFFFF;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-637" y="70" width="116.57142857142858" height="38.70967741935485" as="geometry" />
+          <mxGeometry x="-637" y="70" width="118" height="38.70967741935485" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;fontFamily=宋体;fontSize=12;fontColor=default;" edge="1" parent="1" source="pAC0Fw-5rSfSCOSspkTJ-13" target="pAC0Fw-5rSfSCOSspkTJ-14">
           <mxGeometry relative="1" as="geometry" />
@@ -497,7 +497,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;试验设计生成&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=none;gradientColor=none;gradientDirection=north;fontFamily=宋体;fillColor=#4A7CA6;fontSize=12;fontColor=#FFFFFF;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-485" y="70" width="116.57142857142858" height="38.70967741935485" as="geometry" />
+          <mxGeometry x="-485" y="70" width="118" height="38.70967741935485" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-14" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=12;fontColor=default;container=0;" vertex="1" parent="1">
           <mxGeometry x="-478.2857142857143" y="128.06451612903226" width="116.57142857142858" height="222.58064516129036" as="geometry" />
@@ -514,7 +514,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;评估与调整&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=none;gradientColor=none;gradientDirection=north;fontFamily=宋体;fillColor=#4A7CA6;fontSize=12;fontColor=#FFFFFF;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-332" y="70" width="116.57142857142858" height="38.70967741935485" as="geometry" />
+          <mxGeometry x="-332" y="70" width="118" height="38.70967741935485" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-19" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=12;fontColor=default;container=0;" vertex="1" parent="1">
           <mxGeometry x="-313.1428571428571" y="128.06451612903226" width="116.57142857142858" height="222.58064516129036" as="geometry" />
@@ -755,25 +755,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5o0t7rpPDkwKAzSqHshY-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-635.7142857142857" y="130" width="114" height="222.58" as="geometry" />
+          <mxGeometry x="-635.7142857142857" y="130" width="118" height="222.58" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-5" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=12;fontColor=default;container=0;" vertex="1" parent="5o0t7rpPDkwKAzSqHshY-33">
-          <mxGeometry width="114.00000000000004" height="222.58" as="geometry" />
+          <mxGeometry width="118.00000000000004" height="222.58" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;fontFamily=宋体;fontSize=12;fontColor=default;" edge="1" parent="5o0t7rpPDkwKAzSqHshY-33" source="pAC0Fw-5rSfSCOSspkTJ-7" target="pAC0Fw-5rSfSCOSspkTJ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;试验次数设置&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;（自定义或默认）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=12;fontColor=default;container=0;" vertex="1" parent="5o0t7rpPDkwKAzSqHshY-33">
-          <mxGeometry x="6.423676470588241" y="9.675455826086965" width="101.7058823529412" height="38.709887797101445" as="geometry" />
+          <mxGeometry x="6.649068627450985" y="9.675455826086965" width="105.27450980392159" height="38.709887797101445" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#7EA6E0;fontFamily=宋体;fontSize=12;fontColor=default;" edge="1" parent="5o0t7rpPDkwKAzSqHshY-33" source="pAC0Fw-5rSfSCOSspkTJ-9" target="pAC0Fw-5rSfSCOSspkTJ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;试验空间定义&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;（固定试验点）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;（试验区域）&lt;/span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;（不可试验点）&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;（不可试验区域）&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=12;fontColor=default;container=0;" vertex="1" parent="5o0t7rpPDkwKAzSqHshY-33">
-          <mxGeometry x="6.149852941176503" y="66.93528985507245" width="101.7058823529412" height="77.41977559420289" as="geometry" />
+          <mxGeometry x="6.365637254901993" y="66.93528985507245" width="105.27450980392159" height="77.41977559420289" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;优化准则选择&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;（设计准则）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;（优化算法）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=12;fontColor=default;container=0;" vertex="1" parent="5o0t7rpPDkwKAzSqHshY-33">
-          <mxGeometry x="6.145661764705997" y="161.93565965217394" width="101.7058823529412" height="48.38695652173914" as="geometry" />
+          <mxGeometry x="6.361299019607961" y="161.93565965217394" width="105.27450980392159" height="48.38695652173914" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
