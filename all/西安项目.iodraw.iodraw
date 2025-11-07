@@ -882,7 +882,7 @@
           <mxGeometry x="10" y="230" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rqMQKy2YZRS4R_oNRL9f-36" value="自定义不可试验点&lt;div&gt;和试验区域&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="rqMQKy2YZRS4R_oNRL9f-1">
-          <mxGeometry x="10" y="320" width="170" height="30" as="geometry" />
+          <mxGeometry x="10" y="310" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rqMQKy2YZRS4R_oNRL9f-37" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;自动选择最优的筛选算法，&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;生成试验表&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;arcSize=42;" vertex="1" parent="rqMQKy2YZRS4R_oNRL9f-1">
           <mxGeometry x="10" y="380" width="170" height="50" as="geometry" />
@@ -911,7 +911,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rqMQKy2YZRS4R_oNRL9f-45" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;自定义试验点和试验区域&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;（如果已有试验点和数据，在此添加；&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;如果己经开展筛选试验，则自动添加)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="rqMQKy2YZRS4R_oNRL9f-1">
-          <mxGeometry x="222.32" y="240" width="245.12" height="60" as="geometry" />
+          <mxGeometry x="220" y="230" width="245.12" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rqMQKy2YZRS4R_oNRL9f-46" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rqMQKy2YZRS4R_oNRL9f-1" source="rqMQKy2YZRS4R_oNRL9f-47" target="rqMQKy2YZRS4R_oNRL9f-49">
           <mxGeometry relative="1" as="geometry" />
