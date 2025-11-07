@@ -763,7 +763,7 @@
           <mxGeometry x="100" y="280" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fTG7VYAoxgd4ZoEonZsL-5" value="自定义最大试验次数&lt;div&gt;（不含已有试验点）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="380" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fTG7VYAoxgd4ZoEonZsL-6" value="自定义试验点和试验区域&lt;div&gt;（如果已有试验点和数据，可在此添加）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="150" height="60" as="geometry" />
@@ -823,7 +823,7 @@
           <mxGeometry x="285" y="1190" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-16" value="自定义最大试验次数&lt;div&gt;（不含已有试验点）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="400" width="160" height="40" as="geometry" />
+          <mxGeometry x="570" y="380" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-17" value="自定义试验点和试验区域&lt;div&gt;（如果已有试验点和数据，可在此添加）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="490" width="150" height="60" as="geometry" />
