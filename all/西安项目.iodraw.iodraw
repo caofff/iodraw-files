@@ -1047,27 +1047,6 @@
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-11" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="310" y="215" width="50" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-12" value="" style="group;fontFamily=宋体;fillColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="330" y="460" width="360" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#4E7187);shadow=0;fontFamily=宋体;" vertex="1" parent="a6wfjT4OeoKw0PEb9Skp-12">
-          <mxGeometry x="-29.18918918918919" y="-12.727272727272727" width="389.1891891891892" height="82.72727272727273" as="geometry" />
-        </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-14" value="&lt;font&gt;功效&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="a6wfjT4OeoKw0PEb9Skp-12">
-          <mxGeometry x="121.61864864864866" y="10" width="87.56756756756758" height="19.090909090909093" as="geometry" />
-        </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-15" value="&lt;font&gt;方差膨胀系数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="a6wfjT4OeoKw0PEb9Skp-12">
-          <mxGeometry width="87.56756756756758" height="19.090909090909093" as="geometry" />
-        </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-16" value="&lt;font&gt;别名矩阵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="a6wfjT4OeoKw0PEb9Skp-12">
-          <mxGeometry x="233.51351351351352" y="25.454545454545453" width="87.56756756756758" height="19.090909090909093" as="geometry" />
-        </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-17" value="&lt;font&gt;I-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="a6wfjT4OeoKw0PEb9Skp-12">
-          <mxGeometry x="233.51351351351352" width="87.56756756756758" height="19.090909090909093" as="geometry" />
-        </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-18" value="&lt;font&gt;D-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="a6wfjT4OeoKw0PEb9Skp-12">
-          <mxGeometry y="25.454545454545453" width="87.56756756756758" height="19.090909090909093" as="geometry" />
-        </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-19" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.4066691080729167;arrowSize=0.5133341471354167;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="460" y="400" width="60" height="30" as="geometry" />
         </mxCell>
@@ -1082,6 +1061,24 @@
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="198" y="252.5" width="12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#4E7187);shadow=0;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="300.81081081081084" y="447.27272727272725" width="389.1891891891892" height="82.72727272727273" as="geometry" />
+        </mxCell>
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-14" value="&lt;font&gt;功效&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="451.6186486486487" y="470" width="87.56756756756758" height="19.090909090909093" as="geometry" />
+        </mxCell>
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-15" value="&lt;font&gt;方差膨胀系数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="330" y="460" width="87.56756756756758" height="19.090909090909093" as="geometry" />
+        </mxCell>
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-16" value="&lt;font&gt;别名矩阵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="563.5135135135135" y="485.45454545454544" width="87.56756756756758" height="19.090909090909093" as="geometry" />
+        </mxCell>
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-17" value="&lt;font&gt;I-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="563.5135135135135" y="460" width="87.56756756756758" height="19.090909090909093" as="geometry" />
+        </mxCell>
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-18" value="&lt;font&gt;D-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="330" y="485.45454545454544" width="87.56756756756758" height="19.090909090909093" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
