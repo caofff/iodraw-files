@@ -1081,11 +1081,6 @@
         <mxCell id="vKErtLR5mIIz_sz5Nz12-35" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;点击主效应（自定义）筛选设计按钮&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-760" y="880" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vKErtLR5mIIz_sz5Nz12-36" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="vKErtLR5mIIz_sz5Nz12-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-320" y="870" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-37" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;输入用户自定义参数（试验次数，实验区域，不可试验区域，不可试验点，因子等）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-570" y="880" width="130" height="50" as="geometry" />
         </mxCell>
