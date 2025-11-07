@@ -444,16 +444,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VagmpGRheEf3wSzQaBgS-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;响应变量Y有K个有序类别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="-1080" width="90" height="30" as="geometry" />
+          <mxGeometry x="190" y="-1080" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IWmQuR_g2J41-PDDUaJk-1" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="VagmpGRheEf3wSzQaBgS-2" target="VagmpGRheEf3wSzQaBgS-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VagmpGRheEf3wSzQaBgS-2" value="&lt;font face=&quot;宋体&quot;&gt;定义累积概率&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;P（Y&amp;lt;=j）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="-1020" width="90" height="30" as="geometry" />
+          <mxGeometry x="369" y="-1080" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VagmpGRheEf3wSzQaBgS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VagmpGRheEf3wSzQaBgS-3" target="VagmpGRheEf3wSzQaBgS-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VagmpGRheEf3wSzQaBgS-3" value="&lt;font face=&quot;宋体&quot;&gt;累积logit变换&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="-960" width="90" height="30" as="geometry" />
+          <mxGeometry x="507.5" y="-1080" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VagmpGRheEf3wSzQaBgS-4" value="&lt;font face=&quot;宋体&quot;&gt;构建有序多分类logit模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="-900" width="110" height="30" as="geometry" />
