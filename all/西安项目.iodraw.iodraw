@@ -1010,7 +1010,7 @@
           <mxGeometry x="570" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2c4RiK7kZUNp7jMCunSE-2" value="验证系统功能" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="90" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
