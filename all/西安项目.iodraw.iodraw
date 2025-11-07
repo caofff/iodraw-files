@@ -882,16 +882,16 @@
           <mxGeometry x="10" y="230" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rqMQKy2YZRS4R_oNRL9f-36" value="自定义不可试验点&lt;div&gt;和试验区域&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="rqMQKy2YZRS4R_oNRL9f-1">
-          <mxGeometry x="10" y="330" width="170" height="40" as="geometry" />
+          <mxGeometry x="10" y="320" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rqMQKy2YZRS4R_oNRL9f-37" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;自动选择最优的筛选算法，&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;生成试验表&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;arcSize=42;" vertex="1" parent="rqMQKy2YZRS4R_oNRL9f-1">
           <mxGeometry x="10" y="390" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rqMQKy2YZRS4R_oNRL9f-38" value="修改、添加、删除试验点" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="rqMQKy2YZRS4R_oNRL9f-1">
-          <mxGeometry x="10" y="460" width="170" height="30" as="geometry" />
+          <mxGeometry x="10" y="470" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rqMQKy2YZRS4R_oNRL9f-39" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial; font-size: 14px;&quot;&gt;评估试验设计，给出优化建议&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;arcSize=42;" vertex="1" parent="rqMQKy2YZRS4R_oNRL9f-1">
-          <mxGeometry x="10" y="520" width="170" height="40" as="geometry" />
+          <mxGeometry x="10" y="530" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rqMQKy2YZRS4R_oNRL9f-40" value="修改、添加、删除试验点" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="rqMQKy2YZRS4R_oNRL9f-1">
           <mxGeometry x="10" y="590" width="170" height="30" as="geometry" />
