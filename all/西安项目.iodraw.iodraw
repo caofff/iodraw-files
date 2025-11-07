@@ -1014,31 +1014,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.根据假设模型构造信息矩阵M&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.根据假设模型构造信息矩阵M&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-2" value="&lt;font&gt;2.计算D-最优、I-最优、G-最优准则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-2" value="&lt;font&gt;2.计算D-最优、I-最优、G-最优准则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="250" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-3" value="&lt;font&gt;3.使用序贯设计优化、坐标交换算法搜索最优设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-3" value="&lt;font&gt;3.使用序贯设计优化、坐标交换算法搜索最优设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="300" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-4" value="&lt;font&gt;4.评价优化试验设计表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-4" value="&lt;font&gt;4.评价优化试验设计表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-5" value="&lt;font&gt;生成最优试验表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="210" y="277.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-6" value="&lt;font&gt;用户自定义&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-6" value="&lt;font&gt;用户自定义&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="218" y="90" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-7" value="&lt;font&gt;试验因子、响应&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-7" value="&lt;font&gt;试验因子、响应&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="378" y="40" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-8" value="&lt;h5 style=&quot;margin-top:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-top:0.0000gd;&lt;br/&gt;mso-para-margin-bottom:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;&lt;br/&gt;line-height:150%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;试验点、不可试验点、可试验区域、不可试验区域&lt;/font&gt;&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h5&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-8" value="&lt;h5 style=&quot;margin-top:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-top:0.0000gd;&lt;br/&gt;mso-para-margin-bottom:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;&lt;br/&gt;line-height:150%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;试验点、不可试验点、可试验区域、不可试验区域&lt;/font&gt;&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h5&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="378" y="140" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-9" value="&lt;font&gt;试验次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-9" value="&lt;font&gt;试验次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="378" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-10" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=宋体;" vertex="1" parent="1">
@@ -1047,7 +1047,7 @@
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-11" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="310" y="215" width="50" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-12" value="" style="group;fontFamily=宋体;" vertex="1" connectable="0" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-12" value="" style="group;fontFamily=宋体;fillColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="330" y="460" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#4E7187);shadow=0;fontFamily=宋体;" vertex="1" parent="a6wfjT4OeoKw0PEb9Skp-12">
@@ -1074,10 +1074,10 @@
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-20" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="252" y="130" width="32" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;响应曲面设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;响应曲面设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="247.5" width="90" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="a6wfjT4OeoKw0PEb9Skp-22" value="&lt;font&gt;均匀设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="a6wfjT4OeoKw0PEb9Skp-22" value="&lt;font&gt;均匀设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="300" width="90" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontFamily=宋体;" vertex="1" parent="1">
