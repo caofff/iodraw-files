@@ -672,64 +672,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-82" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;启动确定性&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 13px; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;筛选设计按钮&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="890" width="140" height="50" as="geometry" />
+          <mxGeometry x="80" y="320" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-83" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="vKErtLR5mIIz_sz5Nz12-84" target="vKErtLR5mIIz_sz5Nz12-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-84" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;输入因子&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="890" width="130" height="50" as="geometry" />
+          <mxGeometry x="270" y="320" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-85" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="vKErtLR5mIIz_sz5Nz12-86" target="vKErtLR5mIIz_sz5Nz12-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-86" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;&quot;&gt;归一化与离散化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="440" y="890" width="130" height="50" as="geometry" />
+          <mxGeometry x="450" y="320" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-87" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="vKErtLR5mIIz_sz5Nz12-88" target="vKErtLR5mIIz_sz5Nz12-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-88" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-variant-ligatures: normal; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;设置区组数和额外试验次数&lt;/span&gt;目&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="890" width="130" height="50" as="geometry" />
+          <mxGeometry x="630" y="320" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-89" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="vKErtLR5mIIz_sz5Nz12-90" target="vKErtLR5mIIz_sz5Nz12-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-90" value="&lt;div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;显示试验设计&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 13px; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;评估结果&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="980" width="140" height="50" as="geometry" />
+          <mxGeometry x="80" y="410" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-91" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="vKErtLR5mIIz_sz5Nz12-92" target="vKErtLR5mIIz_sz5Nz12-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-92" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;修改、添加、删除试验点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="980" width="130" height="50" as="geometry" />
+          <mxGeometry x="440" y="410" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-93" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="vKErtLR5mIIz_sz5Nz12-94" target="vKErtLR5mIIz_sz5Nz12-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-94" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;评估试验设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="270" y="980" width="130" height="50" as="geometry" />
+          <mxGeometry x="270" y="410" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-95" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="vKErtLR5mIIz_sz5Nz12-96" target="vKErtLR5mIIz_sz5Nz12-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-96" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;基于确定性筛选设计生成设计矩阵&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="630" y="980" width="130" height="50" as="geometry" />
+          <mxGeometry x="630" y="410" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-97" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="vKErtLR5mIIz_sz5Nz12-98" target="vKErtLR5mIIz_sz5Nz12-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-98" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;&quot;&gt;录入试验数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1070" width="140" height="50" as="geometry" />
+          <mxGeometry x="80" y="500" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-99" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;&quot;&gt;显示数据分析结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1070" width="130" height="50" as="geometry" />
+          <mxGeometry x="440" y="500" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-100" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="vKErtLR5mIIz_sz5Nz12-101" target="vKErtLR5mIIz_sz5Nz12-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKErtLR5mIIz_sz5Nz12-101" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;&quot;&gt;分析试验数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1070" width="130" height="50" as="geometry" />
+          <mxGeometry x="270" y="500" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
