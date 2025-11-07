@@ -838,8 +838,14 @@
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-15" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;评价优化模型并自动实施模型&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;优化&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;或给出优化建议&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#4A7CA6;arcSize=42;" vertex="1" parent="1">
           <mxGeometry x="290" y="1010" width="229.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-57" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="WoM3XxU2UjO4T-ZUWLLK-16" target="WoM3XxU2UjO4T-ZUWLLK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-16" value="自定义最大试验次数&lt;div&gt;（不含已有试验点）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="380" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-58" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;endArrow=classic;entryX=0.537;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WoM3XxU2UjO4T-ZUWLLK-17" target="WoM3XxU2UjO4T-ZUWLLK-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-17" value="自定义试验点和试验区域&lt;div&gt;（如果已有试验点和数据，&lt;/div&gt;&lt;div&gt;可在此添加）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="450" width="190" height="50" as="geometry" />
