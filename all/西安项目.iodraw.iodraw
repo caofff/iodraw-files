@@ -652,68 +652,8 @@
         <mxCell id="GrNMUeLCEWDtYOMC6mwe-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1090" y="800" width="1090" height="186.25" as="geometry" />
         </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#003366;" edge="1" parent="GrNMUeLCEWDtYOMC6mwe-1" source="GrNMUeLCEWDtYOMC6mwe-3" target="GrNMUeLCEWDtYOMC6mwe-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="GrNMUeLCEWDtYOMC6mwe-3" value="启动拉丁超立方体设计与分析按钮" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#003366;" vertex="1" parent="GrNMUeLCEWDtYOMC6mwe-1">
           <mxGeometry width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-4" value="输入响应和因子" style="whiteSpace=wrap;html=1;strokeColor=#003366;rounded=0;" vertex="1" parent="GrNMUeLCEWDtYOMC6mwe-1">
-          <mxGeometry x="170" y="1.25" width="120" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#003366;" edge="1" parent="GrNMUeLCEWDtYOMC6mwe-1" source="GrNMUeLCEWDtYOMC6mwe-6" target="GrNMUeLCEWDtYOMC6mwe-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-6" value="&lt;font color=&quot;#ffffff&quot;&gt;归一化和离散化&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#003366;fillColor=#003366;" vertex="1" parent="GrNMUeLCEWDtYOMC6mwe-1">
-          <mxGeometry x="340" y="2.5" width="100" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#003366;" edge="1" parent="GrNMUeLCEWDtYOMC6mwe-1" source="GrNMUeLCEWDtYOMC6mwe-4" target="GrNMUeLCEWDtYOMC6mwe-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-8" value="输入用户自定义参数" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#003366;strokeWidth=1;" vertex="1" parent="GrNMUeLCEWDtYOMC6mwe-1">
-          <mxGeometry x="500" y="2.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#003366;" edge="1" parent="GrNMUeLCEWDtYOMC6mwe-1" source="GrNMUeLCEWDtYOMC6mwe-10" target="GrNMUeLCEWDtYOMC6mwe-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-10" value="&lt;font color=&quot;#ffffff&quot;&gt;基于拉丁超立方体设计算法生成试验设计表&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#003366;fillColor=#003366;" vertex="1" parent="GrNMUeLCEWDtYOMC6mwe-1">
-          <mxGeometry x="720" y="2.5" width="160" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#003366;" edge="1" parent="GrNMUeLCEWDtYOMC6mwe-1" source="GrNMUeLCEWDtYOMC6mwe-8" target="GrNMUeLCEWDtYOMC6mwe-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-12" value="修改、添加、删除试验点" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#003366;strokeWidth=1;" vertex="1" parent="GrNMUeLCEWDtYOMC6mwe-1">
-          <mxGeometry x="940" y="2.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#003366;" edge="1" parent="GrNMUeLCEWDtYOMC6mwe-1" source="GrNMUeLCEWDtYOMC6mwe-14" target="GrNMUeLCEWDtYOMC6mwe-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-14" value="&lt;font color=&quot;#ffffff&quot;&gt;评估试验设计&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#003366;fillColor=#003366;" vertex="1" parent="GrNMUeLCEWDtYOMC6mwe-1">
-          <mxGeometry x="963.75" y="140" width="102.5" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#003366;" edge="1" parent="GrNMUeLCEWDtYOMC6mwe-1" source="GrNMUeLCEWDtYOMC6mwe-12" target="GrNMUeLCEWDtYOMC6mwe-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#003366;" edge="1" parent="GrNMUeLCEWDtYOMC6mwe-1" source="GrNMUeLCEWDtYOMC6mwe-17" target="GrNMUeLCEWDtYOMC6mwe-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-17" value="显示试验设计的评估结果" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#003366;strokeWidth=1;" vertex="1" parent="GrNMUeLCEWDtYOMC6mwe-1">
-          <mxGeometry x="725" y="140" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-18" value="录入试验数据" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#003366;strokeWidth=1;" vertex="1" parent="GrNMUeLCEWDtYOMC6mwe-1">
-          <mxGeometry x="500" y="140" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#003366;" edge="1" parent="GrNMUeLCEWDtYOMC6mwe-1" source="GrNMUeLCEWDtYOMC6mwe-20" target="GrNMUeLCEWDtYOMC6mwe-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-20" value="&lt;font color=&quot;#ffffff&quot;&gt;分析试验数据&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#003366;fillColor=#003366;" vertex="1" parent="GrNMUeLCEWDtYOMC6mwe-1">
-          <mxGeometry x="350" y="140" width="100" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#003366;" edge="1" parent="GrNMUeLCEWDtYOMC6mwe-1" source="GrNMUeLCEWDtYOMC6mwe-18" target="GrNMUeLCEWDtYOMC6mwe-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GrNMUeLCEWDtYOMC6mwe-22" value="显示数据分析结果" style="whiteSpace=wrap;html=1;strokeColor=#003366;rounded=0;" vertex="1" parent="GrNMUeLCEWDtYOMC6mwe-1">
-          <mxGeometry x="170" y="138.75" width="120" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="OeNFjRNsfQsm7kgFsQaD-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#003366;" edge="1" parent="1" source="OeNFjRNsfQsm7kgFsQaD-2" target="OeNFjRNsfQsm7kgFsQaD-3">
           <mxGeometry relative="1" as="geometry" />
