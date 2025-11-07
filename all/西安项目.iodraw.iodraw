@@ -826,7 +826,10 @@
           <mxGeometry x="560" y="400" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-17" value="自定义试验点和试验区域&lt;div&gt;（如果已有试验点和数据，可在此添加）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="490" width="150" height="60" as="geometry" />
+          <mxGeometry x="580" y="490" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-18" value="自定义不可试验点和试验区域" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
