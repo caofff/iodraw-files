@@ -794,8 +794,10 @@
         <mxCell id="fTG7VYAoxgd4ZoEonZsL-7" value="自定义不可试验点和试验区域" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="540" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-52" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="fTG7VYAoxgd4ZoEonZsL-8" target="WoM3XxU2UjO4T-ZUWLLK-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-52" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="fTG7VYAoxgd4ZoEonZsL-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fTG7VYAoxgd4ZoEonZsL-8" value="修改、添加、删除试验点" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="680" width="170" height="30" as="geometry" />
@@ -895,6 +897,9 @@
               <mxPoint x="165" y="295" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-53" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="WoM3XxU2UjO4T-ZUWLLK-2" target="WoM3XxU2UjO4T-ZUWLLK-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
