@@ -487,7 +487,7 @@
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=12;fontColor=default;" edge="1" parent="1" source="pAC0Fw-5rSfSCOSspkTJ-4" target="pAC0Fw-5rSfSCOSspkTJ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pAC0Fw-5rSfSCOSspkTJ-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;用户配置阶段&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=none;gradientColor=none;gradientDirection=north;fontFamily=宋体;fillColor=#4A7CA6;fontSize=12;fontColor=#FFFFFF;container=0;" vertex="1" parent="1">
+        <mxCell id="pAC0Fw-5rSfSCOSspkTJ-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;用户配置阶段&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=1;strokeColor=none;gradientColor=none;gradientDirection=north;fontFamily=宋体;fillColor=#4A7CA6;fontSize=12;fontColor=#FFFFFF;container=0;" vertex="1" parent="1">
           <mxGeometry x="-637" y="70" width="118" height="38.70967741935485" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;fontFamily=宋体;fontSize=12;fontColor=default;" edge="1" parent="1" source="pAC0Fw-5rSfSCOSspkTJ-13" target="pAC0Fw-5rSfSCOSspkTJ-14">
