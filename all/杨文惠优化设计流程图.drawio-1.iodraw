@@ -323,9 +323,7 @@
         <mxCell id="wiw9Wk6Ml7UrPJEmJ8CP-9" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W3jwu0-3kaUg8ye6-cch-29" target="W3jwu0-3kaUg8ye6-cch-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="550" />
-              <mxPoint x="330" y="550" />
-              <mxPoint x="330" y="560" />
+              <mxPoint x="380" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
