@@ -297,12 +297,6 @@
         <mxCell id="5o0t7rpPDkwKAzSqHshY-53" value="" style="group;labelBackgroundColor=none;fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-527.218947368421" y="467.2434482758621" width="90" height="130.34482758620686" as="geometry" />
         </mxCell>
-        <mxCell id="NRKFqc47V0T0kY-S8AdV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=16;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="5o0t7rpPDkwKAzSqHshY-53" source="NRKFqc47V0T0kY-S8AdV-11" target="NRKFqc47V0T0kY-S8AdV-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NRKFqc47V0T0kY-S8AdV-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据输入变量的类别选择分析模型&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;（Kriging或EZGP）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=16;fontColor=default;container=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="5o0t7rpPDkwKAzSqHshY-53">
-          <mxGeometry y="-20" width="90" height="89.83" as="geometry" />
-        </mxCell>
         <mxCell id="NRKFqc47V0T0kY-S8AdV-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;参数估计&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=#4A7CA6;rounded=1;arcSize=14;strokeWidth=1;fontFamily=宋体;fontSize=16;fontColor=default;container=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="5o0t7rpPDkwKAzSqHshY-53">
           <mxGeometry y="102.41379310344826" width="90" height="27.93103448275862" as="geometry" />
         </mxCell>
@@ -317,13 +311,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QCtWtRcowhMKn7pwEqKA-2" value="" style="group;fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-406.03986899563324" y="430.006896551724" width="96.06986899563321" height="214.1379310344828" as="geometry" />
+          <mxGeometry x="-406.03986899563324" y="425.346896551724" width="96.06986899563321" height="214.1379310344828" as="geometry" />
         </mxCell>
         <mxCell id="NRKFqc47V0T0kY-S8AdV-15" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=16;fontColor=default;container=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="QCtWtRcowhMKn7pwEqKA-2">
           <mxGeometry width="96.06986899563321" height="214.13793103448276" as="geometry" />
         </mxCell>
         <mxCell id="NRKFqc47V0T0kY-S8AdV-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;对模型进行评估&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;（RMSE或调整系数）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=16;fontColor=default;container=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="QCtWtRcowhMKn7pwEqKA-2">
           <mxGeometry x="4.8034934497816835" y="60.51724137931035" width="86.46288209606989" height="93.10344827586206" as="geometry" />
+        </mxCell>
+        <mxCell id="NRKFqc47V0T0kY-S8AdV-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据输入变量的类别选择分析模型&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;（Kriging或EZGP）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=16;fontColor=default;container=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-527.218947368421" y="450.00344827586207" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NRKFqc47V0T0kY-S8AdV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=16;fontColor=default;strokeWidth=1;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=0;" edge="1" parent="1" source="NRKFqc47V0T0kY-S8AdV-11" target="NRKFqc47V0T0kY-S8AdV-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
