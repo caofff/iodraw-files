@@ -79,34 +79,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;定量变量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="150" y="250" width="110" height="60" as="geometry" />
+          <mxGeometry x="150" y="250" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=宋体;" parent="1" source="rGM1rw6B2inSSwmc1Hx2-2" target="rGM1rw6B2inSSwmc1Hx2-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;标准化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=宋体;" parent="1" source="rGM1rw6B2inSSwmc1Hx2-3" target="rGM1rw6B2inSSwmc1Hx2-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;离散化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="310" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=宋体;" parent="1" source="rGM1rw6B2inSSwmc1Hx2-4" target="rGM1rw6B2inSSwmc1Hx2-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;归一化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Min-max归一化&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Log函数转换归一化&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="470" y="130" width="290" height="60" as="geometry" />
+          <mxGeometry x="470" y="130" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;等宽离散化、等频离散化、&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;聚类离散化&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="470" y="370" width="290" height="60" as="geometry" />
+          <mxGeometry x="470" y="370" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Z-score标准化&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="470" y="250" width="290" height="60" as="geometry" />
+          <mxGeometry x="470" y="250" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rGM1rw6B2inSSwmc1Hx2-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;fontFamily=宋体;" parent="1" target="rGM1rw6B2inSSwmc1Hx2-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -119,9 +119,6 @@
             <mxPoint x="260" y="280" as="sourcePoint" />
             <mxPoint x="310" y="270" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xw8ElOoZI4my1RlAY8S0-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#000000;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="rGM1rw6B2inSSwmc1Hx2-1" target="rGM1rw6B2inSSwmc1Hx2-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
