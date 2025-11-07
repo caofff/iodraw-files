@@ -248,7 +248,7 @@
         <mxCell id="W3jwu0-3kaUg8ye6-cch-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;线性变换&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=none;strokeColor=#4A7CA6;" parent="1" vertex="1">
           <mxGeometry x="544" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W3jwu0-3kaUg8ye6-cch-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;参数x&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=none;strokeColor=#4A7CA6;" parent="1" vertex="1">
+        <mxCell id="W3jwu0-3kaUg8ye6-cch-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;因子x&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=none;strokeColor=#4A7CA6;" parent="1" vertex="1">
           <mxGeometry x="435" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W3jwu0-3kaUg8ye6-cch-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Logistic回归模型&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=none;strokeColor=#4A7CA6;" parent="1" vertex="1">
