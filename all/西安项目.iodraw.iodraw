@@ -830,7 +830,7 @@
           <mxGeometry x="-560" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="al9V5SPMO6Yosl1JYPkV-5" value="&lt;span style=&quot;font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;试验次数n与&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;&quot;&gt;因子数m的关系&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="60" width="140" height="70" as="geometry" />
+          <mxGeometry x="-390" y="65" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="al9V5SPMO6Yosl1JYPkV-6" value="&lt;span style=&quot;font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;自定义筛选设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-380" y="160" width="120" height="40" as="geometry" />
@@ -876,10 +876,10 @@
             <mxPoint x="-460" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="al9V5SPMO6Yosl1JYPkV-17" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="al9V5SPMO6Yosl1JYPkV-17" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-440" y="99.5" as="sourcePoint" />
-            <mxPoint x="-380" y="99.5" as="targetPoint" />
+            <mxPoint x="-390" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
