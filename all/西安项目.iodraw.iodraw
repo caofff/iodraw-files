@@ -1010,7 +1010,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WA6wtW-WrPcY0mKxk_jL" name="第 4 页">
-    <mxGraphModel dx="940" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="940" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1093,28 +1093,28 @@
           <mxGeometry x="486" y="1055" width="240" height="290" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-51" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;响应变量Y有K个有序类别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-740" width="90" height="30" as="geometry" />
+          <mxGeometry x="180" y="1480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-52" value="&lt;font face=&quot;宋体&quot;&gt;定义累积概率&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;P（Y&amp;lt;=j）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-680" width="90" height="30" as="geometry" />
+          <mxGeometry x="180" y="1540" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-53" value="&lt;font face=&quot;宋体&quot;&gt;累积logit变换&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-620" width="90" height="30" as="geometry" />
+          <mxGeometry x="180" y="1600" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-54" value="&lt;font face=&quot;宋体&quot;&gt;构建有序多分类logit模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-560" width="110" height="30" as="geometry" />
+          <mxGeometry x="170" y="1660" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-55" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;响应变量Y有J个有序类别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="465" y="-740" width="90" height="30" as="geometry" />
+          <mxGeometry x="435" y="1480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-56" value="&lt;font face=&quot;宋体&quot;&gt;选择参考类别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-680" width="90" height="30" as="geometry" />
+          <mxGeometry x="430" y="1540" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-57" value="&lt;font face=&quot;宋体&quot;&gt;建立J-1个logit模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-620" width="120" height="30" as="geometry" />
+          <mxGeometry x="420" y="1600" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a6wfjT4OeoKw0PEb9Skp-58" value="&lt;font face=&quot;宋体&quot;&gt;推导各类别概率公式&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="452.5" y="-560" width="115" height="30" as="geometry" />
+          <mxGeometry x="422.5" y="1660" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
