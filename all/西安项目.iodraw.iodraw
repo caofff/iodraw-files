@@ -1003,7 +1003,7 @@
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-88" value="评估试验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=12;fontColor=#CC0000;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="385.25" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-96" value="评估试验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=12;fontColor=#CC0000;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="WoM3XxU2UjO4T-ZUWLLK-96" value="仿真试验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=12;fontColor=#CC0000;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
