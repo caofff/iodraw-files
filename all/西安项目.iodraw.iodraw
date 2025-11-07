@@ -187,25 +187,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5o0t7rpPDkwKAzSqHshY-33" value="" style="group;labelBackgroundColor=none;fontFamily=宋体;fontSize=14;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-637" y="70" width="127" height="222.58" as="geometry" />
+          <mxGeometry x="-650" y="70" width="140" height="222.58" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-5" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;container=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="5o0t7rpPDkwKAzSqHshY-33">
-          <mxGeometry width="127.00000000000004" height="222.58" as="geometry" />
+          <mxGeometry width="140.00000000000006" height="222.58" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;" edge="1" parent="5o0t7rpPDkwKAzSqHshY-33" source="pAC0Fw-5rSfSCOSspkTJ-7" target="pAC0Fw-5rSfSCOSspkTJ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;试验次数设置&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（自定义或默认）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;container=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="5o0t7rpPDkwKAzSqHshY-33">
-          <mxGeometry x="7.156200980392162" y="9.675455826086965" width="113.30392156862747" height="38.709887797101445" as="geometry" />
+          <mxGeometry x="7.888725490196085" y="9.675455826086965" width="124.90196078431376" height="38.709887797101445" as="geometry" />
         </mxCell>
-        <mxCell id="pAC0Fw-5rSfSCOSspkTJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#7EA6E0;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;" edge="1" parent="5o0t7rpPDkwKAzSqHshY-33" source="pAC0Fw-5rSfSCOSspkTJ-9" target="pAC0Fw-5rSfSCOSspkTJ-10">
+        <mxCell id="pAC0Fw-5rSfSCOSspkTJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#7EA6E0;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5o0t7rpPDkwKAzSqHshY-33" source="pAC0Fw-5rSfSCOSspkTJ-9" target="pAC0Fw-5rSfSCOSspkTJ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;试验空间定义&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（固定试验点）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;（试验区域）&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;（不可试验点）&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;（不可试验区域）&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;container=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="5o0t7rpPDkwKAzSqHshY-33">
-          <mxGeometry x="6.851151960784349" y="66.93528985507245" width="113.30392156862747" height="77.41977559420289" as="geometry" />
+          <mxGeometry x="7.552450980392195" y="66.93528985507245" width="124.90196078431376" height="77.41977559420289" as="geometry" />
         </mxCell>
         <mxCell id="pAC0Fw-5rSfSCOSspkTJ-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;优化准则选择&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（设计准则）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（优化算法）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=#4A7CA6;fontFamily=宋体;fontSize=14;fontColor=default;container=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="5o0t7rpPDkwKAzSqHshY-33">
-          <mxGeometry x="6.846482843137382" y="161.93565965217394" width="113.30392156862747" height="48.38695652173914" as="geometry" />
+          <mxGeometry x="7.547303921568768" y="161.93565965217394" width="124.90196078431376" height="48.38695652173914" as="geometry" />
         </mxCell>
         <mxCell id="5o0t7rpPDkwKAzSqHshY-44" value="" style="group;labelBackgroundColor=none;fontFamily=宋体;fontSize=14;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-654.9990909090909" y="430.0020689655172" width="100" height="214.1379310344828" as="geometry" />
