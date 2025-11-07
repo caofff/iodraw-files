@@ -535,6 +535,9 @@
         <mxCell id="_M6U2wqTfoj0ZniJVNal-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;startSize=8;endSize=8;" parent="1" source="hjYq9sXjCgh9iIJsAiqn-6" target="hjYq9sXjCgh9iIJsAiqn-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iVRxDHF9BuXA1Lj_ttcC-7" value="归一化和离散化" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#4A7CA6;" vertex="1" parent="1">
+          <mxGeometry x="610" y="220" width="150" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
