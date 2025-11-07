@@ -515,7 +515,7 @@
           <mxGeometry x="262.02020202020196" y="234.05405405405406" width="103.03030303030302" height="34.5945945945946" as="geometry" />
         </mxCell>
         <mxCell id="hjYq9sXjCgh9iIJsAiqn-10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;显示试验设计的评估结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="80" y="229.73" width="140" height="43.24" as="geometry" />
+          <mxGeometry x="80" y="229.73" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hjYq9sXjCgh9iIJsAiqn-11" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;录入试验数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="81.71717171717172" y="332.43243243243245" width="140.80808080808077" height="43.24324324324324" as="geometry" />
