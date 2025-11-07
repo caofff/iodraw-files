@@ -758,7 +758,7 @@
         </mxCell>
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-83" value="实装实验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="WoM3XxU2UjO4T-ZUWLLK-44">
           <mxGeometry x="-0.2" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-56" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="fTG7VYAoxgd4ZoEonZsL-3" target="WoM3XxU2UjO4T-ZUWLLK-16">
@@ -1002,7 +1002,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-87" value="筛选试验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=12;fontColor=#CC0000;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="135" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-88" value="评估试验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=12;fontColor=#CC0000;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="385.25" y="200" width="60" height="30" as="geometry" />
