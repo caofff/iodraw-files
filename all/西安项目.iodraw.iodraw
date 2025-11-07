@@ -902,7 +902,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-5" value="&lt;div&gt;自定义试验点和试验区域&lt;/div&gt;&lt;div&gt;（如果已有试验点和数据，在此添加；&lt;/div&gt;&lt;div&gt;如果己经开展筛选试验，则自动添加)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="300" width="230" height="60" as="geometry" />
+          <mxGeometry x="310" y="300" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WoM3XxU2UjO4T-ZUWLLK-70" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fontColor=default;labelBackgroundColor=none;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WoM3XxU2UjO4T-ZUWLLK-6" target="WoM3XxU2UjO4T-ZUWLLK-7">
           <mxGeometry relative="1" as="geometry" />
