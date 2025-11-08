@@ -645,9 +645,8 @@
         <mxCell id="nuwolFQke8HXZPveGH2c-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#4A7CA6;" edge="1" parent="1" source="nuwolFQke8HXZPveGH2c-24" target="nuwolFQke8HXZPveGH2c-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="640" />
-              <mxPoint x="410" y="730" />
-              <mxPoint x="440" y="730" />
+              <mxPoint x="390" y="640" />
+              <mxPoint x="390" y="725" />
             </Array>
           </mxGeometry>
         </mxCell>
