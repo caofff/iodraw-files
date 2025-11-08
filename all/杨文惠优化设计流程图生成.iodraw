@@ -665,6 +665,9 @@
         <mxCell id="nuwolFQke8HXZPveGH2c-25" value="生成最优试验表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=16;fontColor=#CC0000;strokeColor=none;" vertex="1" parent="nuwolFQke8HXZPveGH2c-54">
           <mxGeometry width="30" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="nuwolFQke8HXZPveGH2c-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="nuwolFQke8HXZPveGH2c-16" target="nuwolFQke8HXZPveGH2c-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
