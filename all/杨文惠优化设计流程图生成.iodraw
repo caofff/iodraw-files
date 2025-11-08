@@ -596,7 +596,7 @@
           <mxGeometry x="280" y="150" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-3" value="&lt;font face=&quot;宋体&quot;&gt;使用序贯设计优化、坐标交换算法搜索&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;最优设计生成最优试验表&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="620" width="251.62" height="50" as="geometry" />
+          <mxGeometry x="448.38" y="610" width="251.62" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-4" value="&lt;font face=&quot;宋体&quot;&gt;评价优化试验设计表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="420" height="30" as="geometry" />
