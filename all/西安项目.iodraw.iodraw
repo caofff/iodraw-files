@@ -1135,7 +1135,7 @@
           <mxGeometry x="192.5" y="210" width="295" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-14" value="&lt;span&gt;\(U_c:=U_{new}\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="80" y="315" width="135" height="45" as="geometry" />
+          <mxGeometry x="80" y="285" width="135" height="45" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-16" value="&lt;font&gt;\(j \leq J\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="270" y="400" width="160" height="50" as="geometry" />
