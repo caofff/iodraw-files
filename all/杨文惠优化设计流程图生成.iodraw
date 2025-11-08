@@ -608,7 +608,7 @@
           <mxGeometry x="440" y="770" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-10" value="&lt;font face=&quot;宋体&quot;&gt;功效&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="221" y="760" width="59" height="21.82" as="geometry" />
+          <mxGeometry x="220" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-13" value="&lt;font face=&quot;宋体&quot;&gt;I-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="760" width="60" height="30" as="geometry" />
