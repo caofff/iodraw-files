@@ -559,7 +559,7 @@
           <mxGeometry x="680" y="625" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;arcSize=9;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="239.5" y="300" width="150" height="190" as="geometry" />
+          <mxGeometry x="80" y="550" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-6" value="&lt;font face=&quot;宋体&quot;&gt;试验因子、响应&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;fontColor=#66ABE6;strokeColor=#66ABE6;" vertex="1" parent="1">
           <mxGeometry x="110" y="560" width="110" height="30" as="geometry" />
