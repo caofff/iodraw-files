@@ -593,10 +593,10 @@
           <mxGeometry x="390" y="70" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-2" value="&lt;font face=&quot;宋体&quot;&gt;计算D-最优、I-最优最优准则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="120" width="220" height="30" as="geometry" />
+          <mxGeometry x="390" y="120" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-3" value="&lt;font face=&quot;宋体&quot;&gt;使用序贯设计优化、坐标交换算法搜索最优设计生成最优试验表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="170" width="415" height="30" as="geometry" />
+          <mxGeometry x="390" y="170" width="415" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-4" value="&lt;font face=&quot;宋体&quot;&gt;评价优化试验设计表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="220" width="360" height="30" as="geometry" />
