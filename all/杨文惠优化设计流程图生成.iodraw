@@ -650,16 +650,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nuwolFQke8HXZPveGH2c-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#4A7CA6;exitX=1.028;exitY=0.468;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nuwolFQke8HXZPveGH2c-24" target="nuwolFQke8HXZPveGH2c-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="640" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="390" y="639" />
-              <mxPoint x="390" y="570" />
-              <mxPoint x="400" y="570" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-54" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="260" y="550" width="109" height="190" as="geometry" />
         </mxCell>
