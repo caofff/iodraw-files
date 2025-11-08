@@ -587,7 +587,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nuwolFQke8HXZPveGH2c-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="270" y="555" width="109.34" height="180" as="geometry" />
+          <mxGeometry x="270" y="550" width="109.34" height="180" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-1" value="&lt;font face=&quot;宋体&quot;&gt;根据假设模型构造信息矩阵M&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="550" width="320" height="30" as="geometry" />
