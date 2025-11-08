@@ -849,7 +849,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8tojoNVe8w9WFxWAtdfm-2" value="&lt;font face=&quot;宋体&quot;&gt;根据假设模型构造信息矩阵M&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="400" y="550" width="240" height="30" as="geometry" />
+          <mxGeometry x="400" y="550" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8tojoNVe8w9WFxWAtdfm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8tojoNVe8w9WFxWAtdfm-4" target="8tojoNVe8w9WFxWAtdfm-8">
           <mxGeometry relative="1" as="geometry">
