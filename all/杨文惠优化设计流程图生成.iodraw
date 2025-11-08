@@ -613,7 +613,7 @@
           <mxGeometry x="440" y="600" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-4" value="&lt;font face=&quot;宋体&quot;&gt;评价优化试验设计表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="440" y="710" width="240" height="40" as="geometry" />
+          <mxGeometry x="440" y="710" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-10" value="&lt;font face=&quot;宋体&quot;&gt;功&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;效&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#66ABE6;fontColor=#66ABE6;" vertex="1" parent="1">
           <mxGeometry x="100" y="775" width="30" height="50" as="geometry" />
@@ -652,7 +652,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="410" y="640" />
-              <mxPoint x="410" y="800" />
+              <mxPoint x="410" y="730" />
+              <mxPoint x="440" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
