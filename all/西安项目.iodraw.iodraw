@@ -1248,7 +1248,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bRIrgK9JBivSXcaL0y1M-1" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="40" width="680" height="200" as="geometry" />
+          <mxGeometry x="80" y="40" width="680" height="240" as="geometry" />
         </mxCell>
         <mxCell id="bRIrgK9JBivSXcaL0y1M-2" value="用户无任何设置" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=14;fontColor=default;container=0;" vertex="1" parent="bRIrgK9JBivSXcaL0y1M-1">
           <mxGeometry y="80" width="140" height="40" as="geometry" />
@@ -1382,8 +1382,8 @@
             <mxPoint x="300" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bRIrgK9JBivSXcaL0y1M-27" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="370" y="230" width="80" height="80" as="geometry" />
+        <mxCell id="bRIrgK9JBivSXcaL0y1M-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;用户只指定试验次数&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="bRIrgK9JBivSXcaL0y1M-1">
+          <mxGeometry x="205" y="160" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
