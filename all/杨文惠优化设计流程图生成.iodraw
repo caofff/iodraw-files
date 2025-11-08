@@ -893,7 +893,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8tojoNVe8w9WFxWAtdfm-36" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="8tojoNVe8w9WFxWAtdfm-8" target="8tojoNVe8w9WFxWAtdfm-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="645" />
+              <mxPoint x="680" y="670" />
+              <mxPoint x="690" y="670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8tojoNVe8w9WFxWAtdfm-8" value="&lt;font face=&quot;宋体&quot;&gt;评&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;价&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;优&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;化&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;试&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;验&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;设&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;计&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;表&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="640" y="560" width="30" height="170" as="geometry" />
