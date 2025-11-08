@@ -510,7 +510,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lvILwlVzTaFBYZ_zXifW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66ABE6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="540" width="360" height="210" as="geometry" />
+          <mxGeometry x="420" y="540" width="340" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;" edge="1" parent="1" source="nuwolFQke8HXZPveGH2c-1" target="nuwolFQke8HXZPveGH2c-3">
           <mxGeometry relative="1" as="geometry" />
@@ -541,7 +541,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-4" value="&lt;font face=&quot;宋体&quot;&gt;评价优化试验设计表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="420" y="710" width="230" height="30" as="geometry" />
+          <mxGeometry x="430" y="710" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-10" value="&lt;font face=&quot;宋体&quot;&gt;功&lt;/font&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;效&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#66ABE6;fontColor=#66ABE6;" vertex="1" parent="1">
           <mxGeometry x="680" y="560" width="60" height="20" as="geometry" />
