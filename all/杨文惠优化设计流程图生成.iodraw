@@ -655,8 +655,11 @@
         <mxCell id="nuwolFQke8HXZPveGH2c-25" value="生成最优试验表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=16;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="280" y="550" width="30" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="nuwolFQke8HXZPveGH2c-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;size=0.45454545454545453;" vertex="1" parent="1">
-          <mxGeometry x="390" y="570" width="44" height="230" as="geometry" />
+        <mxCell id="nuwolFQke8HXZPveGH2c-47" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="760" as="sourcePoint" />
+            <mxPoint x="440" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
