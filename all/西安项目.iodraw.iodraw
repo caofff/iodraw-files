@@ -1370,6 +1370,11 @@
             <mxPoint x="380" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bRIrgK9JBivSXcaL0y1M-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="bRIrgK9JBivSXcaL0y1M-27" target="bRIrgK9JBivSXcaL0y1M-4">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bRIrgK9JBivSXcaL0y1M-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;用户只指定&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;试验次数&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
         </mxCell>
