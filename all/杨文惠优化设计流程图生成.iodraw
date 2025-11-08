@@ -635,10 +635,10 @@
           <mxGeometry x="280" y="550" width="108.99999999999997" height="180" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-15" value="&lt;font face=&quot;宋体&quot;&gt;响&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;应&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;曲&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;面&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;设&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;计&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="309.90671300530454" y="570" width="30" height="140" as="geometry" />
+          <mxGeometry x="310" y="570" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-16" value="&lt;font face=&quot;宋体&quot;&gt;均&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;匀&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;设&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;计&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="348.46643497347725" y="570" width="30" height="140" as="geometry" />
+          <mxGeometry x="350" y="570" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-25" value="生成最优试验表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=16;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="280" y="550" width="30" height="180" as="geometry" />
