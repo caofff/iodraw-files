@@ -1132,7 +1132,7 @@
           <mxGeometry x="305" y="450" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-13" value="&lt;span&gt;计算 \(\Delta WD:=WD^2(U_{new}-WD^2(U_c)\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="235" y="330" width="295" height="70" as="geometry" />
+          <mxGeometry x="235" y="360" width="295" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-14" value="&lt;span&gt;\(U_c:=U_{new}\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="100" y="467.5" width="135" height="45" as="geometry" />
