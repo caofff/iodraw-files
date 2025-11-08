@@ -590,7 +590,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-1" value="&lt;font face=&quot;宋体&quot;&gt;根据假设模型构造信息矩阵M&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="550" width="240" height="40" as="geometry" />
+          <mxGeometry x="440" y="550" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuwolFQke8HXZPveGH2c-2" target="nuwolFQke8HXZPveGH2c-4">
           <mxGeometry relative="1" as="geometry" />
