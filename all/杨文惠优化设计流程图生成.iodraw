@@ -672,7 +672,12 @@
           <mxGeometry x="390" y="540" width="370" height="210" as="geometry" />
         </mxCell>
         <mxCell id="lvILwlVzTaFBYZ_zXifW-2" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="nuwolFQke8HXZPveGH2c-24" target="lvILwlVzTaFBYZ_zXifW-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="389" y="645" />
+              <mxPoint x="389" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
