@@ -598,24 +598,6 @@
         <mxCell id="nuwolFQke8HXZPveGH2c-4" value="&lt;font face=&quot;宋体&quot;&gt;评价优化试验设计表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nuwolFQke8HXZPveGH2c-9" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220" y="530" width="380" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nuwolFQke8HXZPveGH2c-10" value="&lt;font face=&quot;宋体&quot;&gt;功效&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="nuwolFQke8HXZPveGH2c-9">
-          <mxGeometry x="128.37524024024026" y="11.428571428571427" width="92.43243243243245" height="21.81818181818182" as="geometry" />
-        </mxCell>
-        <mxCell id="nuwolFQke8HXZPveGH2c-11" value="&lt;font face=&quot;宋体&quot;&gt;方差膨胀系数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="nuwolFQke8HXZPveGH2c-9">
-          <mxGeometry width="92.43243243243245" height="21.81818181818182" as="geometry" />
-        </mxCell>
-        <mxCell id="nuwolFQke8HXZPveGH2c-12" value="&lt;font face=&quot;宋体&quot;&gt;别名矩阵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="nuwolFQke8HXZPveGH2c-9">
-          <mxGeometry x="246.48648648648648" y="29.090909090909086" width="92.43243243243245" height="21.81818181818182" as="geometry" />
-        </mxCell>
-        <mxCell id="nuwolFQke8HXZPveGH2c-13" value="&lt;font face=&quot;宋体&quot;&gt;I-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="nuwolFQke8HXZPveGH2c-9">
-          <mxGeometry x="246.48648648648648" width="92.43243243243245" height="21.81818181818182" as="geometry" />
-        </mxCell>
-        <mxCell id="nuwolFQke8HXZPveGH2c-14" value="&lt;font face=&quot;宋体&quot;&gt;D-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="nuwolFQke8HXZPveGH2c-9">
-          <mxGeometry y="29.090909090909086" width="92.43243243243245" height="21.81818181818182" as="geometry" />
-        </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-26" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="320" width="160" height="190" as="geometry" />
         </mxCell>
@@ -648,6 +630,21 @@
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-25" value="生成最优试验表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=16;fontColor=#CC0000;" vertex="1" parent="nuwolFQke8HXZPveGH2c-27">
           <mxGeometry x="13.333333333333332" width="26.666666666666664" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nuwolFQke8HXZPveGH2c-10" value="&lt;font face=&quot;宋体&quot;&gt;功效&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="428.37524024024026" y="351.42857142857144" width="92.43243243243245" height="21.81818181818182" as="geometry" />
+        </mxCell>
+        <mxCell id="nuwolFQke8HXZPveGH2c-13" value="&lt;font face=&quot;宋体&quot;&gt;I-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="546.4864864864865" y="340" width="92.43243243243245" height="21.81818181818182" as="geometry" />
+        </mxCell>
+        <mxCell id="nuwolFQke8HXZPveGH2c-12" value="&lt;font face=&quot;宋体&quot;&gt;别名矩阵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="546.4864864864865" y="369.0909090909091" width="92.43243243243245" height="21.81818181818182" as="geometry" />
+        </mxCell>
+        <mxCell id="nuwolFQke8HXZPveGH2c-11" value="&lt;font face=&quot;宋体&quot;&gt;方差膨胀系数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="92.43243243243245" height="21.81818181818182" as="geometry" />
+        </mxCell>
+        <mxCell id="nuwolFQke8HXZPveGH2c-14" value="&lt;font face=&quot;宋体&quot;&gt;D-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="369.0909090909091" width="92.43243243243245" height="21.81818181818182" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
