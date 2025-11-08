@@ -803,9 +803,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-25" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="ETQ2Z9hyZ_q1qfpxRadc-26" target="ETQ2Z9hyZ_q1qfpxRadc-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-26" value="&lt;font&gt;\(j \leq J\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="160" height="40" as="geometry" />
         </mxCell>
