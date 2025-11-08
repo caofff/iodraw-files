@@ -1123,7 +1123,7 @@
           <mxGeometry x="600" y="400" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-8" value="&lt;span&gt;在\(U_c\)的邻域中选择新设计\(U_{new} \in \mathcal U\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="245" y="130" width="180" height="50" as="geometry" />
+          <mxGeometry x="250" y="130" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-9" value="&lt;span&gt;\(j:=j+1\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="100" height="40" as="geometry" />
