@@ -1142,7 +1142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-6" value="&lt;span&gt;&lt;font&gt;改变门限&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;font&gt;\(\tau_i:=\tau_{i+1}\)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="650" y="350" width="100" height="50" as="geometry" />
+          <mxGeometry x="650" y="335" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-44" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-8" target="DjK7kvoaUxZTQ8LOCvRY-13">
           <mxGeometry relative="1" as="geometry" />
