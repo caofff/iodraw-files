@@ -857,7 +857,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8tojoNVe8w9WFxWAtdfm-4" value="&lt;font face=&quot;宋体&quot;&gt;计算D-最优、I-最优准则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="400" y="710" width="240" height="30" as="geometry" />
+          <mxGeometry x="400" y="700" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8tojoNVe8w9WFxWAtdfm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4A7CA6;" edge="1" parent="1" source="8tojoNVe8w9WFxWAtdfm-6" target="8tojoNVe8w9WFxWAtdfm-4">
           <mxGeometry relative="1" as="geometry" />
