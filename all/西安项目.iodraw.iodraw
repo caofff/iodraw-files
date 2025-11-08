@@ -1254,7 +1254,7 @@
           <mxGeometry y="80" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bRIrgK9JBivSXcaL0y1M-3" value="确定性筛选设计" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="bRIrgK9JBivSXcaL0y1M-1">
-          <mxGeometry x="195" width="130" height="40" as="geometry" />
+          <mxGeometry x="200" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bRIrgK9JBivSXcaL0y1M-4" value="输入试验次数n&lt;div style=&quot;font-size: 14px;&quot;&gt;因子数m&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;arcSize=40;" vertex="1" parent="bRIrgK9JBivSXcaL0y1M-1">
           <mxGeometry x="195" y="80" width="130" height="40" as="geometry" />
@@ -1383,7 +1383,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bRIrgK9JBivSXcaL0y1M-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;用户只指定&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;试验次数&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="bRIrgK9JBivSXcaL0y1M-1">
-          <mxGeometry x="205" y="150" width="110" height="60" as="geometry" />
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
