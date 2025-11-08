@@ -1184,10 +1184,10 @@
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-14" value="&lt;span&gt;\(U_c:=U_{new}\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DjK7kvoaUxZTQ8LOCvRY-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-16" target="DjK7kvoaUxZTQ8LOCvRY-18">
+        <mxCell id="DjK7kvoaUxZTQ8LOCvRY-50" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-16" target="DjK7kvoaUxZTQ8LOCvRY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DjK7kvoaUxZTQ8LOCvRY-50" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-16" target="DjK7kvoaUxZTQ8LOCvRY-9">
+        <mxCell id="DjK7kvoaUxZTQ8LOCvRY-56" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-16" target="DjK7kvoaUxZTQ8LOCvRY-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-16" value="&lt;font&gt;\(j \leq J\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
