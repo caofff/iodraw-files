@@ -605,7 +605,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hiaAmvivy6QpvFeL4MIr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="hiaAmvivy6QpvFeL4MIr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="290" y="30" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="W94MZjMIOYXNn7DXTC5B-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;模&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;型&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;检&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;验&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
@@ -755,12 +755,6 @@
         </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-32" value="&lt;span&gt;退出&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=14;startSize=8;endSize=8;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="645" y="580" as="sourcePoint" />
-            <mxPoint x="645" y="580" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
