@@ -574,7 +574,7 @@
           <mxGeometry x="80" y="550" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-54" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="550" width="230" height="190" as="geometry" />
+          <mxGeometry x="230" y="550" width="230" height="190" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;arcSize=9;strokeColor=#4A7CA6;" vertex="1" parent="nuwolFQke8HXZPveGH2c-54">
           <mxGeometry x="21" width="109" height="190" as="geometry" />
@@ -586,7 +586,7 @@
           <mxGeometry x="29" y="20" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fiF5inspmcU1xdzUcDq4-2" value="&lt;span style=&quot;caret-color: rgb(204, 0, 0); font-family: 宋体; font-size: 16px;&quot;&gt;最优试验表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=none;fontStyle=1" vertex="1" parent="nuwolFQke8HXZPveGH2c-54">
-          <mxGeometry x="29" y="120" width="120" height="30" as="geometry" />
+          <mxGeometry x="29" y="120" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-61" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66ABE6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;strokeWidth=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="550" width="80" height="190" as="geometry" />
