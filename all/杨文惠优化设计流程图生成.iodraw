@@ -656,7 +656,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nuwolFQke8HXZPveGH2c-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="nuwolFQke8HXZPveGH2c-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;arcSize=9;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="280" y="550" width="108.99999999999997" height="180" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-15" value="&lt;font face=&quot;宋体&quot;&gt;响&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;应&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;曲&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;面&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;设&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;计&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;fontColor=#66ABE6;strokeColor=#66ABE6;" vertex="1" parent="1">
