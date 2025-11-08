@@ -965,7 +965,7 @@
         <mxCell id="8tojoNVe8w9WFxWAtdfm-19" value="用户自定义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=16;fontColor=#CC0000;" vertex="1" parent="8tojoNVe8w9WFxWAtdfm-42">
           <mxGeometry width="30" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="8tojoNVe8w9WFxWAtdfm-43" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="8tojoNVe8w9WFxWAtdfm-43" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="550" width="370" height="190" as="geometry" />
         </mxCell>
       </root>
