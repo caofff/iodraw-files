@@ -868,7 +868,7 @@
         <mxCell id="8tojoNVe8w9WFxWAtdfm-6" value="&lt;font face=&quot;宋体&quot;&gt;使用序贯设计优化、坐标交换算法&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;搜索&lt;/font&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;最优设计生成最优试验表&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="400" y="620" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8tojoNVe8w9WFxWAtdfm-33" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="8tojoNVe8w9WFxWAtdfm-8" target="8tojoNVe8w9WFxWAtdfm-13">
+        <mxCell id="8tojoNVe8w9WFxWAtdfm-33" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8tojoNVe8w9WFxWAtdfm-8" target="8tojoNVe8w9WFxWAtdfm-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="645" />
