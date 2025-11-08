@@ -780,7 +780,7 @@
         </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-17" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="ETQ2Z9hyZ_q1qfpxRadc-16">
           <mxGeometry x="-0.74" y="1" relative="1" as="geometry">
-            <mxPoint x="13" y="5" as="offset" />
+            <mxPoint x="13" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-18" value="&lt;font&gt;\(\Delta WD \leq \tau_i\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
@@ -828,7 +828,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-31" value="&lt;font&gt;\(i \leq I\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="320" y="370" width="160" height="40" as="geometry" />
+          <mxGeometry x="320" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-32" value="&lt;span&gt;退出&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="90" y="360" width="130" height="40" as="geometry" />
