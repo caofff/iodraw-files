@@ -1172,6 +1172,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DjK7kvoaUxZTQ8LOCvRY-58" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-11" target="DjK7kvoaUxZTQ8LOCvRY-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjK7kvoaUxZTQ8LOCvRY-59" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="DjK7kvoaUxZTQ8LOCvRY-58">
+          <mxGeometry x="-0.74" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-11" value="&lt;font&gt;\(\Delta WD \leq \tau_i\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="160" height="40" as="geometry" />
         </mxCell>
@@ -1191,6 +1199,11 @@
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-50" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-16" target="DjK7kvoaUxZTQ8LOCvRY-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjK7kvoaUxZTQ8LOCvRY-60" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="DjK7kvoaUxZTQ8LOCvRY-50">
+          <mxGeometry x="-0.2824" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-56" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-16" target="DjK7kvoaUxZTQ8LOCvRY-18">
           <mxGeometry relative="1" as="geometry" />
