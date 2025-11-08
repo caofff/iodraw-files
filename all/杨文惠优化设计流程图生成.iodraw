@@ -752,7 +752,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="145" />
+              <mxPoint x="600" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -831,7 +831,7 @@
           <mxGeometry x="320" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-32" value="&lt;span&gt;退出&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="90" y="360" width="130" height="40" as="geometry" />
+          <mxGeometry x="80" y="360" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=14;startSize=8;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
