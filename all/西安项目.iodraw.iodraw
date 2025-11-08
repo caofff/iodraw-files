@@ -1137,7 +1137,7 @@
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-9" value="&lt;span&gt;\(j:=j+1\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DjK7kvoaUxZTQ8LOCvRY-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-11" target="DjK7kvoaUxZTQ8LOCvRY-16">
+        <mxCell id="DjK7kvoaUxZTQ8LOCvRY-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-11" target="DjK7kvoaUxZTQ8LOCvRY-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-11" value="&lt;font&gt;\(\Delta WD \leq \tau_i\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
@@ -1148,6 +1148,9 @@
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-13" value="&lt;span&gt;计算 \(\Delta WD:=WD^2(U_{new}-WD^2(U_c)\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="192.5" y="210" width="295" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DjK7kvoaUxZTQ8LOCvRY-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-14" target="DjK7kvoaUxZTQ8LOCvRY-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-14" value="&lt;span&gt;\(U_c:=U_{new}\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="140" height="40" as="geometry" />
