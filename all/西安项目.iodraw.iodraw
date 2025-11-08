@@ -1131,7 +1131,7 @@
           <mxGeometry x="600" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-6" value="&lt;span&gt;&lt;font&gt;改变门限&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;font&gt;\(\tau_i:=\tau_{i+1}\)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="490" y="435" width="100" height="50" as="geometry" />
+          <mxGeometry x="580" y="350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-44" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-8" target="DjK7kvoaUxZTQ8LOCvRY-13">
           <mxGeometry relative="1" as="geometry" />
@@ -1178,6 +1178,9 @@
           <mxGeometry x="260" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-49" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-18" target="DjK7kvoaUxZTQ8LOCvRY-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjK7kvoaUxZTQ8LOCvRY-52" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-18" target="DjK7kvoaUxZTQ8LOCvRY-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-18" value="&lt;font&gt;\(i \leq I\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
