@@ -599,10 +599,10 @@
           <mxGeometry x="440" y="780" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-10" value="&lt;font face=&quot;宋体&quot;&gt;功效&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="69.99524024024026" y="769.9985714285715" width="92.43243243243245" height="21.81818181818182" as="geometry" />
+          <mxGeometry x="320.99524024024026" y="769.9985714285715" width="92.43243243243245" height="21.81818181818182" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-13" value="&lt;font face=&quot;宋体&quot;&gt;I-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="189.99648648648645" y="820" width="92.43243243243245" height="21.81818181818182" as="geometry" />
+          <mxGeometry x="79.99648648648645" y="770" width="92.43243243243245" height="21.81818181818182" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-12" value="&lt;font face=&quot;宋体&quot;&gt;别名矩阵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="309.99648648648645" y="820.0009090909091" width="92.43243243243245" height="21.81818181818182" as="geometry" />
