@@ -607,7 +607,12 @@
           <mxGeometry x="400" y="600" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-62" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="nuwolFQke8HXZPveGH2c-4" target="nuwolFQke8HXZPveGH2c-61">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="725" />
+              <mxPoint x="650" y="645" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-4" value="&lt;font face=&quot;宋体&quot;&gt;评价优化试验设计表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="400" y="710" width="240" height="30" as="geometry" />
