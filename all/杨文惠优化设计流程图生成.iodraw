@@ -688,7 +688,7 @@
           <mxGeometry x="280" y="630" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fiF5inspmcU1xdzUcDq4-5" value="生成试验设计表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="250" y="555" width="135.5" height="30" as="geometry" />
+          <mxGeometry x="260" y="555" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
