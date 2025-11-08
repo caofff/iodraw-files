@@ -611,7 +611,7 @@
           <mxGeometry x="100" y="810" width="92.43243243243245" height="21.81818181818182" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-14" value="&lt;font face=&quot;宋体&quot;&gt;D-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="770" width="80" height="21.82" as="geometry" />
+          <mxGeometry x="200" y="770" width="60" height="21.82" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuwolFQke8HXZPveGH2c-5" target="nuwolFQke8HXZPveGH2c-25">
           <mxGeometry relative="1" as="geometry" />
