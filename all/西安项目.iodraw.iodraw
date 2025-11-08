@@ -1148,7 +1148,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-8" value="&lt;span&gt;在\(U_c\)的邻域中选择新设计\(U_{new} \in \mathcal U\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="130" width="180" height="50" as="geometry" />
+          <mxGeometry x="250" y="140" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-51" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-9" target="DjK7kvoaUxZTQ8LOCvRY-8">
           <mxGeometry relative="1" as="geometry">
@@ -1168,7 +1168,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-11" value="&lt;font&gt;\(\Delta WD \leq \tau_i\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="280" width="160" height="40" as="geometry" />
+          <mxGeometry x="254" y="280" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-45" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-13" target="DjK7kvoaUxZTQ8LOCvRY-11">
           <mxGeometry relative="1" as="geometry">
@@ -1176,7 +1176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-13" value="&lt;span&gt;计算 \(\Delta WD:=WD^2(U_{new}-WD^2(U_c)\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="250" y="210" width="295" height="40" as="geometry" />
+          <mxGeometry x="200" y="210" width="295" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-48" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-14" target="DjK7kvoaUxZTQ8LOCvRY-16">
           <mxGeometry relative="1" as="geometry" />
@@ -1191,7 +1191,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-16" value="&lt;font&gt;\(j \leq J\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="355" width="160" height="40" as="geometry" />
+          <mxGeometry x="267.5" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-49" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="DjK7kvoaUxZTQ8LOCvRY-18" target="DjK7kvoaUxZTQ8LOCvRY-19">
           <mxGeometry relative="1" as="geometry" />
@@ -1200,7 +1200,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-18" value="&lt;font&gt;\(i \leq I\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="440" width="160" height="40" as="geometry" />
+          <mxGeometry x="267.5" y="450" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-19" value="&lt;span&gt;退出&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="130" height="40" as="geometry" />
