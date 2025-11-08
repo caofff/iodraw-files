@@ -611,13 +611,13 @@
           <mxGeometry x="230" y="760" width="59" height="21.82" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-13" value="&lt;font face=&quot;宋体&quot;&gt;I-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="770" width="60" height="21.82" as="geometry" />
+          <mxGeometry x="304.5" y="760" width="60" height="21.82" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-12" value="&lt;font face=&quot;宋体&quot;&gt;别名矩阵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="309.99648648648645" y="770.0009090909091" width="92.43243243243245" height="21.81818181818182" as="geometry" />
+          <mxGeometry x="229.99648648648645" y="800.0009090909091" width="92.43243243243245" height="21.81818181818182" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-11" value="&lt;font face=&quot;宋体&quot;&gt;方差膨胀系数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="310" y="800" width="92.43243243243245" height="21.81818181818182" as="geometry" />
+          <mxGeometry x="330" y="800" width="92.43243243243245" height="21.81818181818182" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-14" value="&lt;font face=&quot;宋体&quot;&gt;D-效率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="850" width="60" height="21.82" as="geometry" />
