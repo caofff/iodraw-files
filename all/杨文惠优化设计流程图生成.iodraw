@@ -614,7 +614,7 @@
           <mxGeometry x="40.5" y="140" width="109.5" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-23" value="用户自定义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=16;fontColor=#CC0000;" vertex="1" parent="nuwolFQke8HXZPveGH2c-26">
-          <mxGeometry x="10" width="250" height="190" as="geometry" />
+          <mxGeometry x="10" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-27" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="90" width="160" height="190" as="geometry" />
