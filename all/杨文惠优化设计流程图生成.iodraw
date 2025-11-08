@@ -629,10 +629,10 @@
           <mxGeometry y="29.090909090909086" width="92.43243243243245" height="21.81818181818182" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-15" value="&lt;font face=&quot;宋体&quot;&gt;响应曲面设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="208.75" width="90" height="32.5" as="geometry" />
+          <mxGeometry x="310" y="177.5" width="90" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-16" value="&lt;font face=&quot;宋体&quot;&gt;均匀设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="47.5" width="90" height="32.5" as="geometry" />
+          <mxGeometry x="310" y="110" width="90" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="250" y="480" width="260" height="40" as="geometry" />
