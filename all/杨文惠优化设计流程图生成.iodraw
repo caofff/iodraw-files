@@ -804,7 +804,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-26" value="&lt;font&gt;\(j \leq J\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="320" y="340" width="160" height="40" as="geometry" />
+          <mxGeometry x="320" y="300" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-27" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="ETQ2Z9hyZ_q1qfpxRadc-31" target="ETQ2Z9hyZ_q1qfpxRadc-32">
           <mxGeometry relative="1" as="geometry" />
@@ -823,10 +823,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-31" value="&lt;font&gt;\(i \leq I\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="320" y="410" width="160" height="40" as="geometry" />
+          <mxGeometry x="320" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-32" value="&lt;span&gt;退出&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="90" y="410" width="130" height="40" as="geometry" />
+          <mxGeometry x="90" y="360" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ETQ2Z9hyZ_q1qfpxRadc-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=14;startSize=8;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
