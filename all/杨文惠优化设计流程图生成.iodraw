@@ -590,10 +590,10 @@
           <mxGeometry x="440" y="550" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-2" value="&lt;font face=&quot;宋体&quot;&gt;计算D-最优、I-最优最优准则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="680" width="320" height="30" as="geometry" />
+          <mxGeometry x="440" y="690" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-3" value="&lt;font face=&quot;宋体&quot;&gt;使用序贯设计优化、坐标交换算法&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;搜索&lt;/font&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;最优设计生成最优试验表&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="605" width="320" height="45" as="geometry" />
+          <mxGeometry x="440" y="610" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nuwolFQke8HXZPveGH2c-4" value="&lt;font face=&quot;宋体&quot;&gt;评价优化试验设计表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="740" width="320" height="30" as="geometry" />
