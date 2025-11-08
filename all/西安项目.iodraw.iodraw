@@ -1141,10 +1141,10 @@
           <mxGeometry x="270" y="400" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-18" value="&lt;font&gt;\(i \leq I\)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="270" y="490" width="160" height="80" as="geometry" />
+          <mxGeometry x="270" y="490" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-19" value="&lt;span&gt;退出&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#4A7CA6;" vertex="1" parent="1">
-          <mxGeometry x="105" y="707.5" width="130" height="45" as="geometry" />
+          <mxGeometry x="120" y="600" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="DjK7kvoaUxZTQ8LOCvRY-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=14;startSize=8;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
