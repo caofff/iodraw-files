@@ -1440,22 +1440,28 @@
         <mxCell id="JHyIdpaIud7JqHyH1KAY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=14;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JHyIdpaIud7JqHyH1KAY-1" target="JHyIdpaIud7JqHyH1KAY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JHyIdpaIud7JqHyH1KAY-1" value="超饱和设计" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JHyIdpaIud7JqHyH1KAY-1" value="超饱和设计" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JHyIdpaIud7JqHyH1KAY-2" value="试验设计次数 `n`&amp;nbsp;&lt;div&gt;灵活可任意设定&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JHyIdpaIud7JqHyH1KAY-2" value="试验设计次数 `n`&amp;nbsp;&lt;div&gt;灵活可任意设定&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="490" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JHyIdpaIud7JqHyH1KAY-3" value="试验次数少&lt;div&gt;节约成本&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JHyIdpaIud7JqHyH1KAY-3" value="试验次数少&lt;div&gt;节约成本&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="490" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JHyIdpaIud7JqHyH1KAY-4" value="支持定性、定量且多水平参数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JHyIdpaIud7JqHyH1KAY-4" value="支持定性、定量且多水平参数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="490" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JHyIdpaIud7JqHyH1KAY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=14;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JHyIdpaIud7JqHyH1KAY-1" target="JHyIdpaIud7JqHyH1KAY-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="450" as="sourcePoint" />
             <mxPoint x="240" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JHyIdpaIud7JqHyH1KAY-7" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=14;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JHyIdpaIud7JqHyH1KAY-1" target="JHyIdpaIud7JqHyH1KAY-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
