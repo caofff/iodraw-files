@@ -1395,14 +1395,14 @@
         <mxCell id="wUuaY__SoXaEk4zHZRzY-1" value="确定性筛选设计" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wUuaY__SoXaEk4zHZRzY-2" value="主效应与二阶交互效应独立" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="445" width="150" height="40" as="geometry" />
+        <mxCell id="wUuaY__SoXaEk4zHZRzY-2" value="主效应与二阶交互效应&lt;div&gt;独立&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wUuaY__SoXaEk4zHZRzY-3" value="二阶交互效应间不完全&lt;div&gt;混杂&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="442.5" width="160" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wUuaY__SoXaEk4zHZRzY-4" value="纯二次效应与主效应独立，&lt;div&gt;不与二阶交互效应完全混杂&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="440" width="190" height="50" as="geometry" />
+          <mxGeometry x="500" y="442.5" width="190" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
