@@ -1475,8 +1475,8 @@
         <mxCell id="YiL5yODfm7Gy8n56N9mT-1" value="部分因子设计" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YiL5yODfm7Gy8n56N9mT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="YiL5yODfm7Gy8n56N9mT-2" value="可生成指定分辨率的设计矩阵，保证主效应与交互效应无混淆乃至交互效应间也无混淆" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
