@@ -1443,11 +1443,11 @@
         <mxCell id="JHyIdpaIud7JqHyH1KAY-2" value="试验设计次数 `n`&amp;nbsp;&lt;div&gt;灵活可任意设定&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="460" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JHyIdpaIud7JqHyH1KAY-3" value="试验次数少，&lt;div&gt;节约成本&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="JHyIdpaIud7JqHyH1KAY-3" value="试验次数少&lt;div&gt;节约成本&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JHyIdpaIud7JqHyH1KAY-4" value="支持定性、定量且多水平参数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
