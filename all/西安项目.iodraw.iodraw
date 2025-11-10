@@ -1476,7 +1476,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YiL5yODfm7Gy8n56N9mT-1" value="部分因子设计" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="370" width="120" height="50" as="geometry" />
+          <mxGeometry x="80" y="360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YiL5yODfm7Gy8n56N9mT-2" value="可生成指定分辨率的设计矩阵，保证主效应与交互效应无混淆乃至交互效应间也无混淆" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="320" width="390" height="50" as="geometry" />
@@ -1484,7 +1484,7 @@
         <mxCell id="YiL5yODfm7Gy8n56N9mT-3" value="操作简单，设计矩阵易构造" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="400" width="390" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YiL5yODfm7Gy8n56N9mT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=14;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YiL5yODfm7Gy8n56N9mT-3">
+        <mxCell id="YiL5yODfm7Gy8n56N9mT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=14;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YiL5yODfm7Gy8n56N9mT-1" target="YiL5yODfm7Gy8n56N9mT-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="405" as="sourcePoint" />
             <mxPoint x="300" y="355" as="targetPoint" />
