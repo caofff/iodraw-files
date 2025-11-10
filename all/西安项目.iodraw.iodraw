@@ -1395,9 +1395,8 @@
         <mxCell id="wUuaY__SoXaEk4zHZRzY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=14;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wUuaY__SoXaEk4zHZRzY-1" target="wUuaY__SoXaEk4zHZRzY-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="425" />
-              <mxPoint x="160" y="425" />
-              <mxPoint x="160" y="450" />
+              <mxPoint x="360" y="440" />
+              <mxPoint x="360" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
