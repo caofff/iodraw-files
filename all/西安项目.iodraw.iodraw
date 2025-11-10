@@ -1399,7 +1399,10 @@
           <mxGeometry x="80" y="440" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wUuaY__SoXaEk4zHZRzY-3" value="二阶交互效应间不完全混杂" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="550" width="170" height="40" as="geometry" />
+          <mxGeometry x="340" y="440" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wUuaY__SoXaEk4zHZRzY-4" value="二阶交互效应间不完全混杂" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="620" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
